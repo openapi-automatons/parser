@@ -1,3 +1,11 @@
+## [0.0.3](https://github.com/openapi-automatons/parser/compare/v0.0.2...v0.0.3) (2021-11-14)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 13.13.52 to 16.11.7 ([#5](https://github.com/openapi-automatons/parser/issues/5)) ([aa3cf52](https://github.com/openapi-automatons/parser/commit/aa3cf52cc295e4b4b0a273cbb232904201c3ccbd))
+* **deps-dev:** bump typescript from 3.9.10 to 4.4.4 ([#4](https://github.com/openapi-automatons/parser/issues/4)) ([aaaa306](https://github.com/openapi-automatons/parser/commit/aaaa306ab2f5d4ebe79d5355960a60d36df38748))
+
 ## [0.0.2](https://github.com/openapi-automatons/parser/compare/v0.0.1...v0.0.2) (2021-11-14)
 
 
