@@ -1,7 +1,7 @@
 {
   "name": "@automatons/parser",
-  "version": "1.0.14",
-  "repository": "git@github.com:tanmen/openapi-automatons.git",
+  "version": "0.0.0",
+  "repository": "git@github.com:openapi-automatons/parser.git",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -21,7 +21,7 @@
     "@automatons/tools": "^1.0.9",
     "change-case": "^4.1.1",
     "deep-equal": "^2.0.3",
-    "fs-extra": "^9.0.1"
+    "fs-extra": "^10.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^14.1.0",
@@ -37,12 +37,12 @@
     "@types/semantic-release": "^17.2.3",
     "@typescript-eslint/eslint-plugin": "^5.3.1",
     "@typescript-eslint/parser": "^5.3.1",
-    "depcheck": "^0.9.2",
+    "depcheck": "^1.4.2",
     "eslint": "^8.2.0",
     "eslint-config-google": "^0.14.0",
     "husky": "^7.0.4",
     "jest": "^26.0.1",
-    "lint-staged": "^12.0.1",
+    "lint-staged": "^12.0.2",
     "semantic-release": "^18.0.0",
     "ts-jest": "^26.0.0",
     "typescript": "^3.9.3",
