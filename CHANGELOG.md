@@ -1,3 +1,12 @@
+## [0.0.2](https://github.com/openapi-automatons/parser/compare/v0.0.1...v0.0.2) (2021-11-14)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump depcheck from 0.9.2 to 1.4.2 ([#2](https://github.com/openapi-automatons/parser/issues/2)) ([98df794](https://github.com/openapi-automatons/parser/commit/98df79484472ab030caa7bfed7e49a75c02e8fbf))
+* **deps-dev:** bump lint-staged from 12.0.1 to 12.0.2 ([#1](https://github.com/openapi-automatons/parser/issues/1)) ([6f9425b](https://github.com/openapi-automatons/parser/commit/6f9425bf2fe7a215b8601d5a5541920181aeddf1))
+* **deps:** bump fs-extra from 9.1.0 to 10.0.0 ([#3](https://github.com/openapi-automatons/parser/issues/3)) ([ca17c3c](https://github.com/openapi-automatons/parser/commit/ca17c3c98f6fdcbcc52e76ec659e30d44d02da62))
+
 ## [1.0.16](https://github.com/openapi-automatons/openapi-automatons/compare/v1.0.15...v1.0.16) (2021-11-13)
 
 
