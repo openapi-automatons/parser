@@ -1,0 +1,55 @@
+{
+  "name": "@automatons/parser",
+  "version": "1.0.14",
+  "repository": "git@github.com:tanmen/openapi-automatons.git",
+  "author": "tanmen <yt.prog@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "openapi",
+    "openapi-automatons",
+    "automatons"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "depcheck && node scripts/prebuild.js",
+    "build": "tsc && cp package.json README.md LICENSE dist",
+    "postinstall": "husky install && typesync && yarn check --integrity || yarn install --ignore-scripts && yarn-deduplicate",
+    "lint": "eslint src --ext .ts,.tsx",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@automatons/tools": "^1.0.9",
+    "change-case": "^4.1.1",
+    "deep-equal": "^2.0.3",
+    "fs-extra": "^9.0.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^8.0.3",
+    "@types/deep-equal": "^1.0.1",
+    "@types/eslint": "^7.28.2",
+    "@types/fs-extra": "^9.0.1",
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.0",
+    "@types/semantic-release": "^17.2.3",
+    "@typescript-eslint/eslint-plugin": "^5.3.1",
+    "@typescript-eslint/parser": "^5.3.1",
+    "depcheck": "^0.9.2",
+    "eslint": "^8.2.0",
+    "eslint-config-google": "^0.14.0",
+    "husky": "^7.0.4",
+    "jest": "^26.0.1",
+    "lint-staged": "^12.0.1",
+    "semantic-release": "^18.0.0",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3",
+    "typesync": "^0.8.0",
+    "yarn-deduplicate": "^3.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
