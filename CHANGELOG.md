@@ -1,3 +1,11 @@
+## [0.0.6](https://github.com/openapi-automatons/parser/compare/v0.0.5...v0.0.6) (2021-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#11](https://github.com/openapi-automatons/parser/issues/11)) ([60fa508](https://github.com/openapi-automatons/parser/commit/60fa50890e9a0890ee74435de5f4fa3c1e2036fb))
+* **deps:** bump @automatons/tools from 1.0.11 to 1.0.14 ([#12](https://github.com/openapi-automatons/parser/issues/12)) ([c0c7901](https://github.com/openapi-automatons/parser/commit/c0c7901e20187730e4d2537acc45355d1a2528e7))
+
 ## [0.0.5](https://github.com/openapi-automatons/parser/compare/v0.0.4...v0.0.5) (2021-11-16)
 
 
