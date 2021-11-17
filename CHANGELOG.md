@@ -1,3 +1,10 @@
+## [0.0.7](https://github.com/openapi-automatons/parser/compare/v0.0.6...v0.0.7) (2021-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 14.1.0 to 15.0.0 ([#13](https://github.com/openapi-automatons/parser/issues/13)) ([4077754](https://github.com/openapi-automatons/parser/commit/40777546f69d6d7c516c5f0233cfe92641d5ec85))
+
 ## [0.0.6](https://github.com/openapi-automatons/parser/compare/v0.0.5...v0.0.6) (2021-11-17)
 
 
