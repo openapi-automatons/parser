@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/openapi-automatons/parser/compare/v0.0.7...v0.0.8) (2021-11-18)
+
+
+### Bug Fixes
+
+* package.json ([5e3dab3](https://github.com/openapi-automatons/parser/commit/5e3dab39f819909be9d2b92adcb538ec496be421))
+
 ## [0.0.7](https://github.com/openapi-automatons/parser/compare/v0.0.6...v0.0.7) (2021-11-17)
 
 
