@@ -1,3 +1,13 @@
+## [0.0.11](https://github.com/openapi-automatons/parser/compare/v0.0.10...v0.0.11) (2021-11-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/jest from 27.0.2 to 27.0.3 ([#18](https://github.com/openapi-automatons/parser/issues/18)) ([ce89705](https://github.com/openapi-automatons/parser/commit/ce89705626ec8b9764441a3936dd406753cdcf8a))
+* **deps-dev:** bump @types/node from 16.11.7 to 16.11.9 ([#17](https://github.com/openapi-automatons/parser/issues/17)) ([102a9a4](https://github.com/openapi-automatons/parser/commit/102a9a4e14e027dbd7b35397bada4060b654ea99))
+* **deps-dev:** bump lint-staged from 12.0.2 to 12.0.3 ([#20](https://github.com/openapi-automatons/parser/issues/20)) ([e507cd7](https://github.com/openapi-automatons/parser/commit/e507cd7fcf5f5b0a9ed81574a3e074ed0dcf11ad))
+* **deps:** bump @automatons/tools from 1.0.17 to 1.0.18 ([#19](https://github.com/openapi-automatons/parser/issues/19)) ([b6c4130](https://github.com/openapi-automatons/parser/commit/b6c4130e181aaf8e37faf8de659df66e960a883e))
+
 ## [0.0.10](https://github.com/openapi-automatons/parser/compare/v0.0.9...v0.0.10) (2021-11-18)
 
 
