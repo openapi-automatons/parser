@@ -1,3 +1,10 @@
+## [0.0.16](https://github.com/openapi-automatons/parser/compare/v0.0.15...v0.0.16) (2021-11-30)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin from 5.4.0 to 5.5.0 ([#28](https://github.com/openapi-automatons/parser/issues/28)) ([a1a53c3](https://github.com/openapi-automatons/parser/commit/a1a53c3d8ec0c6e373546827b21295144f43eadd))
+
 ## [0.0.15](https://github.com/openapi-automatons/parser/compare/v0.0.14...v0.0.15) (2021-11-25)
 
 
