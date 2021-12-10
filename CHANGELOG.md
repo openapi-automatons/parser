@@ -1,3 +1,10 @@
+## [0.0.22](https://github.com/openapi-automatons/parser/compare/v0.0.21...v0.0.22) (2021-12-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript from 4.5.2 to 4.5.3 ([#40](https://github.com/openapi-automatons/parser/issues/40)) ([e698d5b](https://github.com/openapi-automatons/parser/commit/e698d5b5ff0662afec686d0cbe8745673a482593))
+
 ## [0.0.21](https://github.com/openapi-automatons/parser/compare/v0.0.20...v0.0.21) (2021-12-08)
 
 
