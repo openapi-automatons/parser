@@ -1,3 +1,11 @@
+## [0.0.25](https://github.com/openapi-automatons/parser/compare/v0.0.24...v0.0.25) (2021-12-15)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 16.11.12 to 16.11.13 ([#46](https://github.com/openapi-automatons/parser/issues/46)) ([7d554ce](https://github.com/openapi-automatons/parser/commit/7d554cedbb7c58832edba381910b556b4063e5a3))
+* **deps:** bump @automatons/tools from 1.0.28 to 1.0.30 ([#45](https://github.com/openapi-automatons/parser/issues/45)) ([29b9930](https://github.com/openapi-automatons/parser/commit/29b993005b509c3f7d65e31b8d791d3699dc4b95))
+
 ## [0.0.24](https://github.com/openapi-automatons/parser/compare/v0.0.23...v0.0.24) (2021-12-14)
 
 
