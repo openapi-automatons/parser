@@ -1,3 +1,11 @@
+## [0.0.28](https://github.com/openapi-automatons/parser/compare/v0.0.27...v0.0.28) (2021-12-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 17.0.0 to 17.0.1 ([#51](https://github.com/openapi-automatons/parser/issues/51)) ([197a9bd](https://github.com/openapi-automatons/parser/commit/197a9bd35303543bd439dc5ddd20024907e893ae))
+* **deps-dev:** bump lint-staged from 12.1.2 to 12.1.3 ([#50](https://github.com/openapi-automatons/parser/issues/50)) ([0e76341](https://github.com/openapi-automatons/parser/commit/0e76341a6602b09ce6f5d4feb473d12a7dbb7c40))
+
 ## [0.0.27](https://github.com/openapi-automatons/parser/compare/v0.0.26...v0.0.27) (2021-12-17)
 
 
