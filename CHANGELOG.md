@@ -1,3 +1,13 @@
+## [0.0.30](https://github.com/openapi-automatons/parser/compare/v0.0.29...v0.0.30) (2021-12-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 17.0.1 to 17.0.2 ([#54](https://github.com/openapi-automatons/parser/issues/54)) ([ed6a310](https://github.com/openapi-automatons/parser/commit/ed6a310331b1838e8e45a9e3d907316a649dbe79))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin from 5.7.0 to 5.8.0 ([#53](https://github.com/openapi-automatons/parser/issues/53)) ([a3e1ccf](https://github.com/openapi-automatons/parser/commit/a3e1ccff9425745e080dc90ad067c7d6f693c1a1))
+* **deps-dev:** bump @typescript-eslint/parser from 5.7.0 to 5.8.0 ([#56](https://github.com/openapi-automatons/parser/issues/56)) ([f89f2ea](https://github.com/openapi-automatons/parser/commit/f89f2ea375b0d349932ec164a3e553a66d3ebf70))
+* **deps:** bump @automatons/tools from 1.0.32 to 1.0.33 ([#55](https://github.com/openapi-automatons/parser/issues/55)) ([8c1ac82](https://github.com/openapi-automatons/parser/commit/8c1ac8207a9d442cc78735603a2dd5e199259c32))
+
 ## [0.0.29](https://github.com/openapi-automatons/parser/compare/v0.0.28...v0.0.29) (2021-12-20)
 
 
