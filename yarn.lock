@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@automatons/tools@^1.0.32":
-  version "1.0.32"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-1.0.32.tgz#322ee32f8b8903f83208bc91d1684fc28802cc35"
-  integrity sha512-ypAIJ7LgwDqtwhJhCGGwgQcz6ubnj8fgNks+Od87oearhONuYpDnTIz4fVxwC/B3MUccS5B8JLD8XpiTzG8bHQ==
+"@automatons/tools@^1.0.33":
+  version "1.0.33"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-1.0.33.tgz#6482f249fce3f2612a06e7c48c28274b42956815"
+  integrity sha512-IUSX0LzeerD1XIzlUbM5EeUOx6mx3kqmNMFEa5RTZddMHmC6JpxW76NzXbsO6MVvwUjr+n77DaKB6AzwCy8dsw==
   dependencies:
     fs-extra "^10.0.0"
     js-yaml "^4.1.0"
