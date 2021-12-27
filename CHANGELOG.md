@@ -1,3 +1,12 @@
+## [0.0.34](https://github.com/openapi-automatons/parser/compare/v0.0.33...v0.0.34) (2021-12-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#64](https://github.com/openapi-automatons/parser/issues/64)) ([c256f96](https://github.com/openapi-automatons/parser/commit/c256f96803f725bcd1fdcd7ac65364e86a93dff5))
+* **deps-dev:** bump @types/node from 17.0.4 to 17.0.5 ([#61](https://github.com/openapi-automatons/parser/issues/61)) ([76327c0](https://github.com/openapi-automatons/parser/commit/76327c0b572f20623d70a149e539bf4068a33184))
+* **deps:** bump @automatons/tools from 1.0.36 to 1.0.37 ([#63](https://github.com/openapi-automatons/parser/issues/63)) ([6edbf16](https://github.com/openapi-automatons/parser/commit/6edbf1659001cf681263f4e4d886ea1e231deb0f))
+
 ## [0.0.33](https://github.com/openapi-automatons/parser/compare/v0.0.32...v0.0.33) (2021-12-24)
 
 
