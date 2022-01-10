@@ -1,3 +1,11 @@
+## [0.0.45](https://github.com/openapi-automatons/parser/compare/v0.0.44...v0.0.45) (2022-01-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.0.1 to 16.0.2 ([#83](https://github.com/openapi-automatons/parser/issues/83)) ([5a991d3](https://github.com/openapi-automatons/parser/commit/5a991d3122085b78d1c5ced53e69e3e4908cc192))
+* **deps-dev:** bump depcheck from 1.4.2 to 1.4.3 ([#84](https://github.com/openapi-automatons/parser/issues/84)) ([e452228](https://github.com/openapi-automatons/parser/commit/e4522285b6c070d911bb77572dbb60f46266e52f))
+
 ## [0.0.44](https://github.com/openapi-automatons/parser/compare/v0.0.43...v0.0.44) (2022-01-07)
 
 
