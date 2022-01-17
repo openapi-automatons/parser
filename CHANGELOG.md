@@ -1,3 +1,11 @@
+## [0.0.50](https://github.com/openapi-automatons/parser/compare/v0.0.49...v0.0.50) (2022-01-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 17.0.8 to 17.0.9 ([#92](https://github.com/openapi-automatons/parser/issues/92)) ([3d3fa09](https://github.com/openapi-automatons/parser/commit/3d3fa092841eaaab08e9d8e054798183152f2875))
+* **deps-dev:** bump eslint from 8.6.0 to 8.7.0 ([#91](https://github.com/openapi-automatons/parser/issues/91)) ([18ffcd2](https://github.com/openapi-automatons/parser/commit/18ffcd2f25192f3f7cf88034eaf62552020ed39f))
+
 ## [0.0.49](https://github.com/openapi-automatons/parser/compare/v0.0.48...v0.0.49) (2022-01-12)
 
 
