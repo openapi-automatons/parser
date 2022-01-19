@@ -1,3 +1,11 @@
+## [0.0.53](https://github.com/openapi-automatons/parser/compare/v0.0.52...v0.0.53) (2022-01-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.0.2 to 16.0.3 ([#98](https://github.com/openapi-automatons/parser/issues/98)) ([453fb80](https://github.com/openapi-automatons/parser/commit/453fb80c76d67526549d7f5fc5674c706fb255b2))
+* **deps-dev:** bump @types/node from 17.0.9 to 17.0.10 ([#97](https://github.com/openapi-automatons/parser/issues/97)) ([d2097be](https://github.com/openapi-automatons/parser/commit/d2097be4b482b328c57ca3d88df7aad78b09197e))
+
 ## [0.0.52](https://github.com/openapi-automatons/parser/compare/v0.0.51...v0.0.52) (2022-01-18)
 
 
