@@ -1,3 +1,12 @@
+## [0.0.54](https://github.com/openapi-automatons/parser/compare/v0.0.53...v0.0.54) (2022-01-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/npm from 8.0.3 to 9.0.0 ([#101](https://github.com/openapi-automatons/parser/issues/101)) ([be7a9dd](https://github.com/openapi-automatons/parser/commit/be7a9ddf6f9a337bf5958dc00223a9b5d267f37d))
+* **deps-dev:** bump lint-staged from 12.1.7 to 12.2.1 ([#100](https://github.com/openapi-automatons/parser/issues/100)) ([052b517](https://github.com/openapi-automatons/parser/commit/052b517f2e693f246479f71a6a388415cf707fcc))
+* **deps:** bump @automatons/tools from 1.0.53 to 1.0.55 ([#99](https://github.com/openapi-automatons/parser/issues/99)) ([3b850e3](https://github.com/openapi-automatons/parser/commit/3b850e3d20a4d3f08bdd88e6c98d71761c537189))
+
 ## [0.0.53](https://github.com/openapi-automatons/parser/compare/v0.0.52...v0.0.53) (2022-01-19)
 
 
