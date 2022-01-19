@@ -1,6 +1,6 @@
 {
   "name": "@automatons/parser",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "repository": "git@github.com:openapi-automatons/parser.git",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
@@ -43,7 +43,7 @@
     "eslint-config-google": "^0.14.0",
     "husky": "^7.0.4",
     "jest": "^26.0.1",
-    "lint-staged": "^12.1.7",
+    "lint-staged": "^12.2.1",
     "semantic-release": "^19.0.2",
     "ts-jest": "^26.0.0",
     "typescript": "^4.5.4",
