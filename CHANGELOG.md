@@ -1,3 +1,10 @@
+## [0.0.73](https://github.com/openapi-automatons/parser/compare/v0.0.72...v0.0.73) (2022-02-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 17.0.16 to 17.0.17 ([#134](https://github.com/openapi-automatons/parser/issues/134)) ([dfc394b](https://github.com/openapi-automatons/parser/commit/dfc394ba935e0146fac0f6d744fcad6f18c71ca0))
+
 ## [0.0.72](https://github.com/openapi-automatons/parser/compare/v0.0.71...v0.0.72) (2022-02-09)
 
 
