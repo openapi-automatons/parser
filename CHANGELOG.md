@@ -1,3 +1,12 @@
+## [0.0.75](https://github.com/openapi-automatons/parser/compare/v0.0.74...v0.0.75) (2022-02-14)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#139](https://github.com/openapi-automatons/parser/issues/139)) ([7e3a7a0](https://github.com/openapi-automatons/parser/commit/7e3a7a02390a402760e9867c28b485f86513f720))
+* **deps-dev:** bump eslint from 8.8.0 to 8.9.0 ([#138](https://github.com/openapi-automatons/parser/issues/138)) ([e43ba1d](https://github.com/openapi-automatons/parser/commit/e43ba1dcf923e7b7a73e78e3c2435038a1ba2411))
+* **deps-dev:** bump lint-staged from 12.3.3 to 12.3.4 ([#137](https://github.com/openapi-automatons/parser/issues/137)) ([ee26147](https://github.com/openapi-automatons/parser/commit/ee26147ded9cc5267b50640be15cd1ac63303c6c))
+
 ## [0.0.74](https://github.com/openapi-automatons/parser/compare/v0.0.73...v0.0.74) (2022-02-11)
 
 
