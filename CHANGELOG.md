@@ -1,3 +1,10 @@
+## [0.0.83](https://github.com/openapi-automatons/parser/compare/v0.0.82...v0.0.83) (2022-02-23)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/jest from 27.4.0 to 27.4.1 ([#151](https://github.com/openapi-automatons/parser/issues/151)) ([16e048d](https://github.com/openapi-automatons/parser/commit/16e048d91028e142b9a2b710ac2df2a2e9f57f0a))
+
 ## [0.0.82](https://github.com/openapi-automatons/parser/compare/v0.0.81...v0.0.82) (2022-02-23)
 
 
