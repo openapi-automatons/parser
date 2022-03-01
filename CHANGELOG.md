@@ -1,3 +1,13 @@
+## [0.0.86](https://github.com/openapi-automatons/parser/compare/v0.0.85...v0.0.86) (2022-03-01)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/npm from 9.0.0 to 9.0.1 ([#159](https://github.com/openapi-automatons/parser/issues/159)) ([8ce5377](https://github.com/openapi-automatons/parser/commit/8ce53773771a5fc1f05c0da72da0b6a637c5b9c1))
+* **deps-dev:** bump @typescript-eslint/parser from 5.12.1 to 5.13.0 ([#158](https://github.com/openapi-automatons/parser/issues/158)) ([1605e88](https://github.com/openapi-automatons/parser/commit/1605e88ab3b4f10514d0a65d75e5c1cbabd22dc2))
+* **deps-dev:** bump typescript from 4.5.5 to 4.6.2 ([#157](https://github.com/openapi-automatons/parser/issues/157)) ([6fdacdb](https://github.com/openapi-automatons/parser/commit/6fdacdb6243384f65c9e0f96a27cdd6ab160bf22))
+* **deps:** bump @automatons/tools from 1.0.80 to 1.0.81 ([#156](https://github.com/openapi-automatons/parser/issues/156)) ([c0d6b75](https://github.com/openapi-automatons/parser/commit/c0d6b7514eb63b6de338f500c1b23b6d10333602))
+
 ## [0.0.85](https://github.com/openapi-automatons/parser/compare/v0.0.84...v0.0.85) (2022-02-28)
 
 
