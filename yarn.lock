@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@automatons/tools@^1.0.80":
-  version "1.0.80"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-1.0.80.tgz#94e769a777a5686e291565dcd860b77b0b4fd8ef"
-  integrity sha512-LoGdCyh98huV8F6iC2fMCl+ljwZGUChKUeUJan6AD3BBQTO4rGzv5OB/p4+sXcwblNqTNJAF8eOcypCFiwNxCA==
+"@automatons/tools@^1.0.81":
+  version "1.0.81"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-1.0.81.tgz#8a48f0e65f4f6b5537073dbf1c872dbf53114699"
+  integrity sha512-4ntLwgmVHAC8rLlUxymZiudRsoj8MdCT9ljlZKzH5qeKqXVOXwvZqRHD/9NwHvlQMVORDyKVCx7wTaTuhMU5rw==
   dependencies:
     fs-extra "^10.0.1"
     js-yaml "^4.1.0"
@@ -7461,10 +7461,10 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
-typescript@^4.4.3, typescript@^4.5.5:
-  version "4.5.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.5.tgz#d8c953832d28924a9e3d37c73d729c846c5896f3"
-  integrity sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==
+typescript@^4.4.3, typescript@^4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.2.tgz#fe12d2727b708f4eef40f51598b3398baa9611d4"
+  integrity sha512-HM/hFigTBHZhLXshn9sN37H085+hQGeJHJ/X7LpBWLID/fbc2acUMfU+lGD98X81sKP+pFa9f0DZmCwB9GnbAg==
 
 typesync@^0.8.0:
   version "0.8.0"
