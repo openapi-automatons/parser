@@ -1,6 +1,6 @@
 {
   "name": "@automatons/parser",
-  "version": "0.0.94",
+  "version": "0.0.95",
   "repository": "git@github.com:openapi-automatons/parser.git",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
