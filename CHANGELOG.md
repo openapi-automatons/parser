@@ -1,3 +1,10 @@
+## [0.0.98](https://github.com/openapi-automatons/parser/compare/v0.0.97...v0.0.98) (2022-03-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typesync from 0.8.0 to 0.9.0 ([#177](https://github.com/openapi-automatons/parser/issues/177)) ([4da61f6](https://github.com/openapi-automatons/parser/commit/4da61f6c07881b7637a0b62939080a76f450dc23))
+
 ## [0.0.97](https://github.com/openapi-automatons/parser/compare/v0.0.96...v0.0.97) (2022-03-18)
 
 
