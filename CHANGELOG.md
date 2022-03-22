@@ -1,3 +1,13 @@
+## [0.0.99](https://github.com/openapi-automatons/parser/compare/v0.0.98...v0.0.99) (2022-03-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 17.0.21 to 17.0.22 ([#179](https://github.com/openapi-automatons/parser/issues/179)) ([7a6817c](https://github.com/openapi-automatons/parser/commit/7a6817cdb71bf3f1820e1d17acc8872771958f9f))
+* **deps-dev:** bump @typescript-eslint/parser from 5.15.0 to 5.16.0 ([#178](https://github.com/openapi-automatons/parser/issues/178)) ([260a102](https://github.com/openapi-automatons/parser/commit/260a102f6cb4d963f5f3a7854161013f54d49c4a))
+* **deps-dev:** bump yarn-deduplicate from 3.1.0 to 4.0.0 ([#181](https://github.com/openapi-automatons/parser/issues/181)) ([9314936](https://github.com/openapi-automatons/parser/commit/931493656667d9e26d158634ff9cacbdac7c00ef))
+* **deps:** bump @automatons/tools from 1.0.92 to 1.0.94 ([#180](https://github.com/openapi-automatons/parser/issues/180)) ([6585c42](https://github.com/openapi-automatons/parser/commit/6585c4226a18920a50f503bc6dbbbee461e3cdf2))
+
 ## [0.0.98](https://github.com/openapi-automatons/parser/compare/v0.0.97...v0.0.98) (2022-03-21)
 
 
