@@ -1,3 +1,11 @@
+## [0.0.110](https://github.com/openapi-automatons/parser/compare/v0.0.109...v0.0.110) (2022-04-15)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 12.3.7 to 12.3.8 ([#199](https://github.com/openapi-automatons/parser/issues/199)) ([6a622cf](https://github.com/openapi-automatons/parser/commit/6a622cfeadad102401049f196de8fa8849902703))
+* **deps:** bump @automatons/tools from 1.0.101 to 1.0.102 ([#200](https://github.com/openapi-automatons/parser/issues/200)) ([cd8f95f](https://github.com/openapi-automatons/parser/commit/cd8f95ffdccfde652c5c185ed3f39967a56eada9))
+
 ## [0.0.109](https://github.com/openapi-automatons/parser/compare/v0.0.108...v0.0.109) (2022-04-14)
 
 
