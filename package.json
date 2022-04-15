@@ -19,7 +19,7 @@
     "postversion": "cp package.json ../package.json"
   },
   "dependencies": {
-    "@automatons/tools": "^1.0.101",
+    "@automatons/tools": "^1.0.102",
     "change-case": "^4.1.1",
     "deep-equal": "^2.0.3",
     "fs-extra": "^10.0.0"
