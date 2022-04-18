@@ -1,3 +1,10 @@
+## [0.0.111](https://github.com/openapi-automatons/parser/compare/v0.0.110...v0.0.111) (2022-04-18)
+
+
+### Bug Fixes
+
+* **deps:** bump @automatons/tools from 1.0.102 to 1.0.103 ([#201](https://github.com/openapi-automatons/parser/issues/201)) ([67e8c9e](https://github.com/openapi-automatons/parser/commit/67e8c9e91203a1e70f55fd7fa0c0e00fae0cc662))
+
 ## [0.0.110](https://github.com/openapi-automatons/parser/compare/v0.0.109...v0.0.110) (2022-04-15)
 
 
