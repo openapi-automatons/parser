@@ -22,7 +22,7 @@
     "@automatons/tools": "^1.0.103",
     "change-case": "^4.1.1",
     "deep-equal": "^2.0.3",
-    "fs-extra": "^10.0.0"
+    "fs-extra": "^10.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
