@@ -19,7 +19,7 @@
     "postversion": "cp package.json ../package.json"
   },
   "dependencies": {
-    "@automatons/tools": "^1.0.105",
+    "@automatons/tools": "^1.0.108",
     "change-case": "^4.1.1",
     "deep-equal": "^2.0.3",
     "fs-extra": "^10.0.0"
@@ -46,7 +46,7 @@
     "lint-staged": "^13.0.0",
     "semantic-release": "^19.0.2",
     "ts-jest": "^26.0.0",
-    "typescript": "^4.7.2",
+    "typescript": "^4.7.3",
     "typesync": "^0.9.1",
     "yarn-deduplicate": "^5.0.0"
   },
