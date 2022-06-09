@@ -1,3 +1,10 @@
+## [0.0.120](https://github.com/openapi-automatons/parser/compare/v0.0.119...v0.0.120) (2022-06-09)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 19.0.2 to 19.0.3 ([#265](https://github.com/openapi-automatons/parser/issues/265)) ([a5eda28](https://github.com/openapi-automatons/parser/commit/a5eda28792f6c167fd2973d06ed1880dd57b9aa6))
+
 ## [0.0.119](https://github.com/openapi-automatons/parser/compare/v0.0.118...v0.0.119) (2022-06-09)
 
 
