@@ -1,6 +1,6 @@
 {
   "name": "@automatons/parser",
-  "version": "0.0.122",
+  "version": "0.0.123",
   "repository": "git@github.com:openapi-automatons/parser.git",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "postversion": "cp package.json ../package.json"
   },
   "dependencies": {
-    "@automatons/tools": "^1.0.110",
+    "@automatons/tools": "^1.0.112",
     "change-case": "^4.1.1",
     "deep-equal": "^2.0.3",
     "fs-extra": "^10.0.0"
