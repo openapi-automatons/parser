@@ -1,3 +1,10 @@
+## [0.0.147](https://github.com/openapi-automatons/parser/compare/v0.0.146...v0.0.147) (2022-07-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/semantic-release from 17.2.3 to 17.2.4 ([#311](https://github.com/openapi-automatons/parser/issues/311)) ([625b3e4](https://github.com/openapi-automatons/parser/commit/625b3e4ac37ae15a94ae7d2808831152997ce6c3))
+
 ## [0.0.146](https://github.com/openapi-automatons/parser/compare/v0.0.145...v0.0.146) (2022-07-19)
 
 
