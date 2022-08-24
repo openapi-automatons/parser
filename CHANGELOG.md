@@ -1,3 +1,16 @@
+## [0.0.165](https://github.com/openapi-automatons/parser/compare/v0.0.164...v0.0.165) (2022-08-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 18.7.11 to 18.7.13 ([#349](https://github.com/openapi-automatons/parser/issues/349)) ([ab2f031](https://github.com/openapi-automatons/parser/commit/ab2f031c6db5d0d8b39d230365d29daea889e796))
+* **deps-dev:** bump @types/node from 18.7.9 to 18.7.11 ([#347](https://github.com/openapi-automatons/parser/issues/347)) ([ec781a6](https://github.com/openapi-automatons/parser/commit/ec781a60c53c5b4c7cd96ed5566b6698c87edc82))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#345](https://github.com/openapi-automatons/parser/issues/345)) ([2a74f23](https://github.com/openapi-automatons/parser/commit/2a74f230536299397cfff5d66bc78529bc28f8eb))
+* **deps-dev:** bump @typescript-eslint/parser from 5.33.1 to 5.34.0 ([#346](https://github.com/openapi-automatons/parser/issues/346)) ([ea6466c](https://github.com/openapi-automatons/parser/commit/ea6466c448c903467b8f025f1a6175968a6af200))
+* **deps-dev:** bump semantic-release from 19.0.3 to 19.0.4 ([#344](https://github.com/openapi-automatons/parser/issues/344)) ([f9d5efd](https://github.com/openapi-automatons/parser/commit/f9d5efd52700aa7a43ac362a2ba008cb31137aeb))
+* **deps-dev:** bump semantic-release from 19.0.4 to 19.0.5 ([#350](https://github.com/openapi-automatons/parser/issues/350)) ([7bd0eb0](https://github.com/openapi-automatons/parser/commit/7bd0eb06a674720c286a611658bb178acee9f81d))
+* **deps:** bump @automatons/tools from 1.0.143 to 1.0.144 ([#348](https://github.com/openapi-automatons/parser/issues/348)) ([68802bf](https://github.com/openapi-automatons/parser/commit/68802bf8440c8e1e01b849e23afa230c47986f88))
+
 ## [0.0.164](https://github.com/openapi-automatons/parser/compare/v0.0.163...v0.0.164) (2022-08-22)
 
 
