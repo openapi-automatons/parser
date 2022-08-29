@@ -1,3 +1,11 @@
+## [0.0.170](https://github.com/openapi-automatons/parser/compare/v0.0.169...v0.0.170) (2022-08-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#358](https://github.com/openapi-automatons/parser/issues/358)) ([67de21f](https://github.com/openapi-automatons/parser/commit/67de21f39973a0defa9677234e2bcf41839800fc))
+* **deps-dev:** bump yarn-deduplicate from 5.0.2 to 6.0.0 ([#356](https://github.com/openapi-automatons/parser/issues/356)) ([00e2d45](https://github.com/openapi-automatons/parser/commit/00e2d452bcc07e0ee9f05c2a1015eeeb1dc271a3))
+
 ## [0.0.169](https://github.com/openapi-automatons/parser/compare/v0.0.168...v0.0.169) (2022-08-26)
 
 
