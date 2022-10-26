@@ -19,7 +19,7 @@
     "postversion": "cp package.json ../package.json"
   },
   "dependencies": {
-    "@automatons/tools": "^1.0.176",
+    "@automatons/tools": "^1.0.178",
     "change-case": "^4.1.1",
     "deep-equal": "^2.0.3",
     "fs-extra": "^10.0.0"
@@ -34,7 +34,7 @@
     "@types/eslint": "^8.4.8",
     "@types/fs-extra": "^9.0.1",
     "@types/jest": "^27.5.0",
-    "@types/node": "^18.11.5",
+    "@types/node": "^18.11.6",
     "@types/semantic-release": "^17.2.4",
     "@typescript-eslint/eslint-plugin": "^5.41.0",
     "@typescript-eslint/parser": "^5.41.0",
