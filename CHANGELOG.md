@@ -1,3 +1,12 @@
+## [0.0.224](https://github.com/openapi-automatons/parser/compare/v0.0.223...v0.0.224) (2022-11-09)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/parser from 5.42.0 to 5.42.1 ([#438](https://github.com/openapi-automatons/parser/issues/438)) ([b4c3e76](https://github.com/openapi-automatons/parser/commit/b4c3e760404d263cad186748f2c6053f42085efd))
+* **deps-dev:** bump husky from 8.0.1 to 8.0.2 ([#440](https://github.com/openapi-automatons/parser/issues/440)) ([477d348](https://github.com/openapi-automatons/parser/commit/477d348879f9c8f50087457c164489a935a103c5))
+* **deps:** bump deep-equal from 2.0.5 to 2.1.0 ([#439](https://github.com/openapi-automatons/parser/issues/439)) ([a280efc](https://github.com/openapi-automatons/parser/commit/a280efcfae459296f19e1f503f1ff757a682bfe3))
+
 ## [0.0.223](https://github.com/openapi-automatons/parser/compare/v0.0.222...v0.0.223) (2022-11-08)
 
 
