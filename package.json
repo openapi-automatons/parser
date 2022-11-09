@@ -21,7 +21,7 @@
   "dependencies": {
     "@automatons/tools": "^1.0.185",
     "change-case": "^4.1.1",
-    "deep-equal": "^2.0.3",
+    "deep-equal": "^2.1.0",
     "fs-extra": "^10.0.0"
   },
   "devDependencies": {
@@ -37,7 +37,7 @@
     "@types/node": "^18.11.9",
     "@types/semantic-release": "^17.2.4",
     "@typescript-eslint/eslint-plugin": "^5.42.1",
-    "@typescript-eslint/parser": "^5.42.0",
+    "@typescript-eslint/parser": "^5.42.1",
     "depcheck": "^1.4.3",
     "eslint": "^8.27.0",
     "eslint-config-google": "^0.14.0",
