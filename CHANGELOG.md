@@ -1,3 +1,11 @@
+## [0.0.230](https://github.com/openapi-automatons/parser/compare/v0.0.229...v0.0.230) (2022-11-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#447](https://github.com/openapi-automatons/parser/issues/447)) ([cee521a](https://github.com/openapi-automatons/parser/commit/cee521a6c8c720d68fa96195643cb66886769f30))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#446](https://github.com/openapi-automatons/parser/issues/446)) ([6ed9f09](https://github.com/openapi-automatons/parser/commit/6ed9f09b7aa5d729f520ce3fbfd9e6bf3a79b2aa))
+
 ## [0.0.229](https://github.com/openapi-automatons/parser/compare/v0.0.228...v0.0.229) (2022-11-21)
 
 
