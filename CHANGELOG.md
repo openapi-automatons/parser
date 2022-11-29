@@ -1,3 +1,11 @@
+## [0.0.236](https://github.com/openapi-automatons/parser/compare/v0.0.235...v0.0.236) (2022-11-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.1 to 6.0.2 ([#456](https://github.com/openapi-automatons/parser/issues/456)) ([98a5c8e](https://github.com/openapi-automatons/parser/commit/98a5c8eb2e89d79b9cf50f1b2f97b0d7ae16ce3c))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#454](https://github.com/openapi-automatons/parser/issues/454)) ([94bf216](https://github.com/openapi-automatons/parser/commit/94bf216c3e29974b910ac7fc0b59c6e2e3718fa3))
+
 ## [0.0.235](https://github.com/openapi-automatons/parser/compare/v0.0.234...v0.0.235) (2022-11-28)
 
 
