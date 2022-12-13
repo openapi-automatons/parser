@@ -34,7 +34,7 @@
     "@types/eslint": "^8.4.10",
     "@types/fs-extra": "^9.0.1",
     "@types/jest": "^27.5.0",
-    "@types/node": "^18.11.13",
+    "@types/node": "^18.11.14",
     "@types/semantic-release": "^17.2.4",
     "@typescript-eslint/eslint-plugin": "^5.46.1",
     "@typescript-eslint/parser": "^5.46.0",
