@@ -1,3 +1,10 @@
+## [0.0.255](https://github.com/openapi-automatons/parser/compare/v0.0.254...v0.0.255) (2023-01-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 8.30.0 to 8.31.0 ([#491](https://github.com/openapi-automatons/parser/issues/491)) ([9c8bc33](https://github.com/openapi-automatons/parser/commit/9c8bc33ea9a8b173d655334da0ddea4f0c132ef6))
+
 ## [0.0.254](https://github.com/openapi-automatons/parser/compare/v0.0.253...v0.0.254) (2022-12-28)
 
 
