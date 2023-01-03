@@ -1,3 +1,10 @@
+## [0.0.257](https://github.com/openapi-automatons/parser/compare/v0.0.256...v0.0.257) (2023-01-03)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump husky from 8.0.2 to 8.0.3 ([#494](https://github.com/openapi-automatons/parser/issues/494)) ([6a6c486](https://github.com/openapi-automatons/parser/commit/6a6c486a6be5c4f5392e37930981b2cf10042be8))
+
 ## [0.0.256](https://github.com/openapi-automatons/parser/compare/v0.0.255...v0.0.256) (2023-01-03)
 
 
