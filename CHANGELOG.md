@@ -1,3 +1,10 @@
+## [0.0.263](https://github.com/openapi-automatons/parser/compare/v0.0.262...v0.0.263) (2023-01-09)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 17.4.0 to 17.4.1 ([#501](https://github.com/openapi-automatons/parser/issues/501)) ([3781c73](https://github.com/openapi-automatons/parser/commit/3781c734930df80d474b0ca702f585322384979b))
+
 ## [0.0.262](https://github.com/openapi-automatons/parser/compare/v0.0.261...v0.0.262) (2023-01-06)
 
 
