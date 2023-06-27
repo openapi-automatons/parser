@@ -36,7 +36,7 @@
     "@types/jest": "^27.5.0",
     "@types/node": "^20.3.1",
     "@types/semantic-release": "^20.0.1",
-    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.0",
     "depcheck": "^1.4.3",
     "eslint": "^8.43.0",
