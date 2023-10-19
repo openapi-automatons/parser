@@ -1594,10 +1594,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/semantic-release@^20.0.2":
-  version "20.0.2"
-  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-20.0.2.tgz#548b31f19928a5edf2303aa73d361a1b1e52061d"
-  integrity sha512-Y2WPZlkiOkHEvGJeY613pwnJ3JIa82AsDTa2ZPFV4btQbetWX3lunCvYtvMSbit/vOgqmIcXVMRFcx1zo49wdw==
+"@types/semantic-release@^20.0.4":
+  version "20.0.4"
+  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-20.0.4.tgz#386a72b565344830d7af6bf6fdc1e770c12f32c6"
+  integrity sha512-9zjlWBYjlRKKOtCu7mEcUTu5Ii5nRAujRe841R6ZfwzhLFCa+BGMdWMImzXZDeVj0ODpI37pO0FSKpMiR7sdww==
   dependencies:
     "@types/node" "*"
 
