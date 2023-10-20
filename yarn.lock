@@ -2515,10 +2515,10 @@ chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.2:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-change-case@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/change-case/-/change-case-5.1.0.tgz#49754b58fdbda90547c696b69233e6fa2795464f"
-  integrity sha512-YLRzoiIO62vpoI8Qy2Jfy3gLu++QfhIcNtMOAwCbIel5UQGp6/KbL7Yu309dwNQHwbI1ZW39uBFyhrwVzXJSJQ==
+change-case@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/change-case/-/change-case-5.1.1.tgz#3cb9c096ebe4905eaa5364b698ea39185e60f9d8"
+  integrity sha512-Z40XiC/f3FdOh+FxqxkDn3rYPzMexuaWR9cjA6cHFfh2hJJTGBh6+hZCslp28OViMk0Vu0fm/C+0vbTCF4+jbw==
 
 char-regex@^1.0.2:
   version "1.0.2"
