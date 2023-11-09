@@ -21,7 +21,7 @@
   "dependencies": {
     "@automatons/tools": "^1.0.218",
     "change-case": "^5.1.2",
-    "deep-equal": "^2.2.2",
+    "deep-equal": "^2.2.3",
     "fs-extra": "^10.0.0"
   },
   "devDependencies": {
