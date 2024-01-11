@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@automatons/tools": "^1.0.218",
-    "change-case": "^5.4.0",
+    "change-case": "^5.4.1",
     "deep-equal": "^2.2.3",
     "fs-extra": "^10.0.0"
   },
