@@ -31,7 +31,7 @@
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/npm": "^11.0.2",
     "@types/deep-equal": "^1.0.4",
-    "@types/eslint": "^8.56.3",
+    "@types/eslint": "^8.56.4",
     "@types/fs-extra": "^9.0.1",
     "@types/jest": "^27.5.0",
     "@types/node": "^20.11.21",
