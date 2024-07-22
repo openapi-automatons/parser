@@ -8652,16 +8652,17 @@ typescript@^4.7.4:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.4.tgz#1a88596d1cf47d59507a1bcdfb5b9dfe4d488235"
   integrity sha512-C0WQT0gezHuw6AdY1M2jxUO83Rjf0HP7Sk1DtXj6j1EwkQNZrHAg2XPWlq62oqEhYvONq5pkC2Y9oPljWToLmQ==
 
-typesync@^0.12.2:
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/typesync/-/typesync-0.12.2.tgz#2389b2f434fd4a17cf9ac718b886870c02304a99"
-  integrity sha512-PdjWi2vk/gEsZvBFa3CNKeapbjo3fYo/olwxJq7M10JVy9oPvM7ULIUYV/Xtohezouz63NBZdoD+ncTVQUBw2A==
+typesync@^0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/typesync/-/typesync-0.13.0.tgz#42c5be647fb738196354f572fd5493718a701f1e"
+  integrity sha512-t5+DHmXqNHJyX9PSocEEB6c5gQlO0j0LLxEiZ/HMz0lWJWBf+bKEXTORkquAuUgjMZ7U5Hx8w63Qmebx7bK2FA==
   dependencies:
     awilix "^10.0.2"
     chalk "^4.1.2"
     cosmiconfig "^9.0.0"
     detect-indent "^6.0.0"
     glob "^10.4.2"
+    js-yaml "^4.1.0"
     npm-registry-fetch "^17.1.0"
     ora "^5.1.0"
     semver "^7.6.2"
