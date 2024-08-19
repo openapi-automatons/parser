@@ -44,7 +44,7 @@
     "husky": "^9.1.4",
     "jest": "^26.0.1",
     "lint-staged": "^15.2.9",
-    "semantic-release": "^24.0.0",
+    "semantic-release": "^24.1.0",
     "ts-jest": "^26.0.0",
     "typescript": "^4.7.4",
     "typesync": "^0.13.0",
