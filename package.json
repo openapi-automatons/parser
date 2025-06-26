@@ -29,7 +29,7 @@
     "@commitlint/config-conventional": "^19.8.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/npm": "^12.0.1",
+    "@semantic-release/npm": "^12.0.2",
     "@types/deep-equal": "^1.0.4",
     "@types/eslint": "^9.6.1",
     "@types/fs-extra": "^9.0.1",
