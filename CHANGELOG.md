@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/openapi-automatons/parser/compare/v1.0.0...v1.0.1) (2026-06-05)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 9.39.4 to 10.4.1 ([#1234](https://github.com/openapi-automatons/parser/issues/1234)) ([667b7a2](https://github.com/openapi-automatons/parser/commit/667b7a2b8fccaecc8820c5bc2298122f09c717e9))
+
 # [1.0.0](https://github.com/openapi-automatons/parser/compare/v0.0.263...v1.0.0) (2026-06-05)
 
 
