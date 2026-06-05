@@ -5,7 +5,7 @@ describe('model parser', () => {
   it('should be throw not found', async () => {
     const openapi = createOpenapi(createSchema('$ref', undefined, 'Test'));
     return expect(parseModel({openapi, settings: {path: './', openapiPath: './', outDir: './'}}))
-      .rejects.toThrowError('Invalid ref path #/components/schemas/Test');
+      .rejects.toThrow('Invalid ref path #/components/schemas/Test');
   });
 
   it.each<[string, string | undefined, string | undefined, string[]]>([

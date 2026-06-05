@@ -6,7 +6,7 @@ import {
   OpenapiSchema,
   referenceSchema,
 } from '@automatons/tools';
-import deepEqual from 'deep-equal';
+import {isDeepStrictEqual} from 'node:util';
 import {Form, Model} from '../../types';
 import {extractSchema, ExtractSchemaResult} from '../schema';
 
@@ -30,8 +30,8 @@ export const extractRequestBody =
           imports: extract.imports,
         }))
       .reduce<{ forms: Form[], models: Model[], imports: Model[] }>((pre, cur) => ({
-        forms: pre.forms.some((form) => deepEqual(form.schema, cur.form.schema)) ? pre.forms.map(
-          (form) => deepEqual(form.schema, cur.form.schema) ? {
+        forms: pre.forms.some((form) => isDeepStrictEqual(form.schema, cur.form.schema)) ? pre.forms.map(
+          (form) => isDeepStrictEqual(form.schema, cur.form.schema) ? {
             ...form,
             types: [...form.types, ...cur.form.types],
           } : form) : [...pre.forms, cur.form],
