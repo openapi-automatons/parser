@@ -19,7 +19,7 @@ export const extractParameter =
       .map(async (param) => {
         const _param = await param;
         const paramSchema = hasSchema(_param) ? _param.schema : Object.keys(_param.content).length ?
-          _param.content[extractMediaType(_param.content)].schema : undefined;
+          _param.content[extractMediaType(_param.content)]?.schema : undefined;
         if (!paramSchema) return;
         const {schema, models, imports} =
           await extractSchema(pascalCase([path, 'parameter', _param.name].join(' ')),

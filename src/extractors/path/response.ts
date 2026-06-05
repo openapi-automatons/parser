@@ -9,10 +9,10 @@ export const extractResponse =
     method: Method,
     context: PathContext): Promise<ExtractSchemaResult | void> => {
     const status = extractStatus(schema);
-    const response = await referenceSchema(schema[status], context);
+    const response = await referenceSchema(schema[status]!, context);
     const content = response.content;
     if (!content || !Object.keys(content).length) return;
-    const resSchema = content[extractMediaType(content)].schema;
+    const resSchema = content[extractMediaType(content)]?.schema;
     if (!resSchema) return;
     return extractSchema([...context.path.split('/'), method, 'Response'].join(' '),
       resSchema, context);

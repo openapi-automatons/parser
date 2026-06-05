@@ -1,9 +1,9 @@
 import {OpenapiMap, OpenapiPathMedia} from '@automatons/tools';
 
 export const extractMediaType = (schema: OpenapiMap<OpenapiPathMedia>): keyof OpenapiMap<OpenapiPathMedia> =>
-  schema.hasOwnProperty('application/json') ?
+  Object.hasOwn(schema, 'application/json') ?
     'application/json' :
-    schema.hasOwnProperty('application/*') ?
+    Object.hasOwn(schema, 'application/*') ?
       'application/*' :
-      schema.hasOwnProperty('default') ?
-        'default' : Object.keys(schema)[0];
+      Object.hasOwn(schema, 'default') ?
+        'default' : Object.keys(schema)[0] ?? '';
