@@ -6,4 +6,4 @@ export const extractMediaType = (schema: OpenapiMap<OpenapiPathMedia>): keyof Op
     Object.hasOwn(schema, 'application/*') ?
       'application/*' :
       Object.hasOwn(schema, 'default') ?
-        'default' : Object.keys(schema)[0];
+        'default' : Object.keys(schema)[0] ?? '';

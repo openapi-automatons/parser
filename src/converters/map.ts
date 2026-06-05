@@ -6,4 +6,4 @@ export type ArrayMapItem<T> = {
 }
 
 export const convertMap = <T = any>(map: OpenapiMap<T> = {}): Array<ArrayMapItem<T>> =>
-  Object.keys(map).map((key) => ({key, schema: map[key]}));
+  Object.entries(map).map(([key, schema]) => ({key, schema}));

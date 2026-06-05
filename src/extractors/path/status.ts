@@ -6,5 +6,5 @@ export const extractStatus = (schema: OpenapiMap<OpenapiPathResponse | OpenapiRe
   return statuses
     .map((status) => Number(status))
     .filter((status) => Number(status) >= 200 && Number(status) < 300)
-    .sort()[0] ?? statuses[0];
+    .sort()[0] ?? statuses[0] ?? '';
 };
