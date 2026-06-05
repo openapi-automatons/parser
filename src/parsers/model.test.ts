@@ -209,6 +209,22 @@ describe('model parser', () => {
     ['oneOf', '$ref', 'oneOf', ['oneOf']],
     ['oneOf', '$ref', '$ref', ['oneOf']],
 
+    ['anyOf', undefined, undefined, ['anyOf']],
+    ['anyOf', 'string', undefined, ['anyOf']],
+    ['anyOf', 'number', undefined, ['anyOf']],
+    ['anyOf', 'integer', undefined, ['anyOf']],
+    ['anyOf', 'array', undefined, ['anyOf']],
+    ['anyOf', 'object', undefined, ['anyOf', 'object']],
+    ['anyOf', 'allOf', undefined, ['anyOf', 'allOf']],
+    ['anyOf', 'oneOf', undefined, ['anyOf', 'oneOf']],
+    ['anyOf', 'anyOf', undefined, ['anyOf', 'anyOf']],
+    ['anyOf', '$ref', 'string', ['anyOf']],
+    ['anyOf', '$ref', 'anyOf', ['anyOf']],
+    ['array', 'anyOf', undefined, ['array', 'anyOf']],
+    ['object', 'anyOf', undefined, ['object', 'anyOf']],
+    ['allOf', 'anyOf', undefined, ['allOf', 'anyOf']],
+    ['oneOf', 'anyOf', undefined, ['oneOf', 'anyOf']],
+
     ['$ref', undefined, undefined, ['model']],
     ['$ref', 'string', undefined, ['model']],
     ['$ref', 'number', undefined, ['model']],
@@ -223,9 +239,9 @@ describe('model parser', () => {
       createSchema(type, children ?
         createSchema(children) : undefined, children) : undefined, type));
     const models = await parseModel({openapi, settings: {path: './', openapiPath: './', outDir: './'}});
-    expect(models.map(({title}) => title)).toHaveLength(8 + names.length);
+    expect(models.map(({title}) => title)).toHaveLength(9 + names.length);
     expect(models.map(({schema: {type}}) => type))
-      .toEqual(['string', 'number', 'number', 'array', 'object', 'allOf', 'oneOf', 'model', ...names]);
+      .toEqual(['string', 'number', 'number', 'array', 'object', 'allOf', 'oneOf', 'anyOf', 'model', ...names]);
   });
 });
 const createSchema = (type: string, children?: OpenapiSchema, ref: string = 'string'): OpenapiSchema => {
@@ -262,6 +278,10 @@ const createSchema = (type: string, children?: OpenapiSchema, ref: string = 'str
     return {
       oneOf: children ? [children] : [],
     };
+  case 'anyOf':
+    return {
+      anyOf: children ? [children] : [],
+    };
   case '$ref':
     return {
       '$ref': `#/components/schemas/${ref}`,
@@ -286,6 +306,7 @@ const createOpenapi = (schema: OpenapiSchema): Openapi => ({
       object: {type: 'object'},
       allOf: {allOf: []},
       oneOf: {oneOf: []},
+      anyOf: {anyOf: []},
       $ref: {$ref: '#/components/schemas/object'},
       Schema: schema,
     },

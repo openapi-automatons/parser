@@ -4,6 +4,7 @@ import {
   isSchemaArray, isSchemaBoolean,
   isSchemaInteger,
   isSchemaNumber,
+  isSchemaAnyOf,
   isSchemaObject,
   isSchemaOneOf,
   isSchemaRef,
@@ -16,14 +17,17 @@ import {extractArraySchema} from './array';
 import {extractObjectSchema} from './object';
 import {extractAllOfSchema} from './allOf';
 import {extractOneOfSchema} from './oneOf';
+import {extractAnyOfSchema} from './anyOf';
 import {extractRefSchema} from './ref';
 import {extractStringSchema} from './string';
 import {extractBooleanSchema} from './boolean';
+import {normalizeSchema} from '../../converters/normalize';
 
 export type ExtractSchemaResult = { schema: Schema, models: Model[], imports?: Model[] };
 
-export const extractSchema = async (title: string, schema: OpenapiSchema,
+export const extractSchema = async (title: string, raw: OpenapiSchema,
   context: AutomatonContext): Promise<ExtractSchemaResult> => {
+  const schema = normalizeSchema(raw);
   if (isSchemaString(schema)) {
     return extractStringSchema(title, schema);
   } else if (isSchemaNumber(schema) || isSchemaInteger(schema)) {
@@ -38,6 +42,8 @@ export const extractSchema = async (title: string, schema: OpenapiSchema,
     return extractAllOfSchema(title, schema, context);
   } else if (isSchemaOneOf(schema)) {
     return extractOneOfSchema(title, schema, context);
+  } else if (isSchemaAnyOf(schema)) {
+    return extractAnyOfSchema(title, schema, context);
   } else if (isSchemaRef(schema)) {
     return extractRefSchema(title, schema);
   }
