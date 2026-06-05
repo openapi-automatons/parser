@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/openapi-automatons/parser/compare/v1.0.3...v1.1.0) (2026-06-05)
+
+
+### Features
+
+* support anyOf, 3.1 type arrays/const, and the 3.2 server name ([#1237](https://github.com/openapi-automatons/parser/issues/1237)) ([e4849f7](https://github.com/openapi-automatons/parser/commit/e4849f778f8faf491b481a360b53f8d137af262e))
+
 ## [1.0.3](https://github.com/openapi-automatons/parser/compare/v1.0.2...v1.0.3) (2026-06-05)
 
 
