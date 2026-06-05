@@ -5,6 +5,7 @@ import {
   isSchemaBoolean,
   isSchemaInteger,
   isSchemaNumber,
+  isSchemaAnyOf,
   isSchemaObject,
   isSchemaOneOf,
   isSchemaRef,
@@ -19,11 +20,14 @@ import {extractAllOfModel} from './allOf';
 import {extractArrayModel} from './array';
 import {extractObjectModel} from './object';
 import {extractOneOfModel} from './oneOf';
+import {extractAnyOfModel} from './anyOf';
 import {extractRefModel} from './ref';
 import {ExtractModel} from './type';
+import {normalizeSchema} from '../../converters/normalize';
 
 export const extractModel =
-  async (title: string, schema: OpenapiSchema, context: AutomatonContext): Promise<ExtractModel> => {
+  async (title: string, raw: OpenapiSchema, context: AutomatonContext): Promise<ExtractModel> => {
+    const schema = normalizeSchema(raw);
     if (isSchemaString(schema)) {
       return {model: convertModel(title, convertString(schema)), insides: []};
     } else if (isSchemaNumber(schema) || isSchemaInteger(schema)) {
@@ -38,6 +42,8 @@ export const extractModel =
       return extractAllOfModel(title, schema, context);
     } else if (isSchemaOneOf(schema)) {
       return extractOneOfModel(title, schema, context);
+    } else if (isSchemaAnyOf(schema)) {
+      return extractAnyOfModel(title, schema, context);
     } else if (isSchemaRef(schema)) {
       return extractRefModel(title, schema, context);
     }

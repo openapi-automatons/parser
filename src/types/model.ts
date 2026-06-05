@@ -7,6 +7,7 @@ export type Schema =
   | ObjectSchema
   | AllOfSchema
   | OneOfSchema
+  | AnyOfSchema
   | ModelSchema;
 
 export interface Model {
@@ -99,6 +100,12 @@ export interface AllOfSchema extends SchemaCommon {
 
 export interface OneOfSchema extends SchemaCommon {
   type: 'oneOf';
+  examples?: Example[];
+  schemas: Schema[];
+}
+
+export interface AnyOfSchema extends SchemaCommon {
+  type: 'anyOf';
   examples?: Example[];
   schemas: Schema[];
 }
