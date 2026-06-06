@@ -1,4 +1,4 @@
-import {Method, OpenapiMap, OpenapiPathResponse, OpenapiReference, referenceSchema} from '@automatons/tools';
+import {OpenapiMap, OpenapiPathResponse, OpenapiReference, referenceSchema} from '@automatons/tools';
 import {extractSchema, ExtractSchemaResult} from '../schema';
 import {extractMediaType} from './mediaType';
 import {extractStatus} from './status';
@@ -6,7 +6,7 @@ import {PathContext} from './type';
 
 export const extractResponse =
   async (schema: OpenapiMap<OpenapiPathResponse | OpenapiReference>,
-    method: Method,
+    method: string,
     context: PathContext): Promise<ExtractSchemaResult | void> => {
     const status = extractStatus(schema);
     const response = await referenceSchema(schema[status]!, context);
