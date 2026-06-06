@@ -14,22 +14,23 @@ export type ReceiveMethod = 'get' | 'head' | 'delete' | 'options' | 'trace';
 
 export type ReceivePath = {
   name: string;
-  method: ReceiveMethod;
+  method: string;
   path: string;
   servers: Server[];
   parameters?: PathParameter[];
   queries?: QueryParameter[];
   headers?: HeaderParameter[];
   cookies?: CookieParameter[];
+  querystring?: Schema;
   schema?: Schema;
   securities?: Security[];
 }
 
-export type AffectMethod = 'post' | 'put' | 'patch';
+export type AffectMethod = 'post' | 'put' | 'patch' | 'query';
 
 export type AffectPath = {
   name: string;
-  method: AffectMethod;
+  method: string;
   path: string;
   servers: Server[];
   forms?: Form[];
@@ -37,6 +38,7 @@ export type AffectPath = {
   queries?: QueryParameter[];
   headers?: HeaderParameter[];
   cookies?: CookieParameter[];
+  querystring?: Schema;
   schema?: Schema;
   securities?: Security[];
 }

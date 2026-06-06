@@ -4,6 +4,7 @@ import {
   isHeaderParam,
   isPathParam,
   isQueryParam,
+  isQueryStringParam,
   OpenapiParameter,
   referenceSchema,
 } from '@automatons/tools';
@@ -71,6 +72,8 @@ export const extractParameter =
             models,
             imports,
           };
+        } else if (isQueryStringParam(_param)) {
+          return {querystring: schema, models, imports};
         }
         return;
       })
@@ -82,6 +85,7 @@ export const extractParameter =
           queries: current.query ? [...previous.queries, current.query] : previous.queries,
           headers: current.header ? [...previous.headers, current.header] : previous.headers,
           cookies: current.cookie ? [...previous.cookies, current.cookie] : previous.cookies,
+          querystring: current.querystring ?? previous.querystring,
           models: [...previous.models, ...current.models],
           imports: [...previous.imports, ...current.imports ?? []],
         }) :

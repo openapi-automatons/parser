@@ -1,5 +1,5 @@
 import {AutomatonContext} from '@automatons/tools';
-import {CookieParameter, HeaderParameter, Model, Path, PathParameter, QueryParameter} from '../../types';
+import {CookieParameter, HeaderParameter, Model, Path, PathParameter, QueryParameter, Schema} from '../../types';
 
 export type PathContext = { path: string } & AutomatonContext;
 export type ParameterResult = {
@@ -7,6 +7,7 @@ export type ParameterResult = {
   queries: QueryParameter[],
   headers: HeaderParameter[],
   cookies: CookieParameter[],
+  querystring?: Schema,
   models: Model[],
   imports: Model[]
 };

@@ -1,4 +1,4 @@
-import {AutomatonContext, Method, OpenapiParameter, OpenapiPath, OpenapiPathOperation} from '@automatons/tools';
+import {AutomatonContext, OpenapiParameter, OpenapiPath, OpenapiPathOperation} from '@automatons/tools';
 import {camelCase} from 'change-case';
 import {convertServer} from '../../converters/server';
 import {
@@ -35,6 +35,7 @@ const mergeParameter =
       queries: _queries,
       headers: _headers,
       cookies: _cookies,
+      querystring: _querystring,
       models: _models,
       imports: _imports,
     } =
@@ -43,6 +44,7 @@ const mergeParameter =
     params.queries.push(..._queries);
     params.headers.push(..._headers);
     params.cookies.push(..._cookies);
+    if (_querystring) params.querystring = _querystring;
     mergeModels(models, {models: _models, imports: _imports});
   };
 
@@ -56,6 +58,7 @@ type Params = {
   queries: QueryParameter[];
   headers: HeaderParameter[];
   cookies: CookieParameter[];
+  querystring?: Schema;
 };
 
 type Data = {
@@ -66,7 +69,7 @@ type Data = {
   schema?: Schema;
 };
 
-export const extractMethod = async (path: string, method: Method, operation: OpenapiPathOperation, schema: OpenapiPath,
+export const extractMethod = async (path: string, method: string, operation: OpenapiPathOperation, schema: OpenapiPath,
   {openapi, settings}: AutomatonContext): Promise<PathReturn> => {
   const models: Models = {
     models: [],
@@ -110,7 +113,7 @@ export const extractMethod = async (path: string, method: Method, operation: Ope
   return convertPath(path, method, operation, data, models);
 };
 
-const convertPath = (path: string, method: Method, operation: OpenapiPathOperation,
+const convertPath = (path: string, method: string, operation: OpenapiPathOperation,
   {params, servers, securities, forms, schema}: Data, models: Models): PathReturn => ({
   tags: operation.tags && operation.tags.length ? operation.tags : ['default'],
   path: {
@@ -122,6 +125,7 @@ const convertPath = (path: string, method: Method, operation: OpenapiPathOperati
     queries: params.queries.sort(requiredCompare),
     headers: params.headers.sort(requiredCompare),
     cookies: params.cookies.sort(requiredCompare),
+    ...(params.querystring ? {querystring: params.querystring} : {}),
     ...(securities ? {securities} : {}),
     ...(forms ? {forms} : {}),
     ...(schema ? {schema} : {}),
