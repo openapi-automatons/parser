@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/openapi-automatons/parser/compare/v1.1.0...v1.2.0) (2026-06-06)
+
+
+### Features
+
+* extract OpenAPI 3.2 query/additionalOperations and querystring ([#1238](https://github.com/openapi-automatons/parser/issues/1238)) ([c97e2b7](https://github.com/openapi-automatons/parser/commit/c97e2b7fdb47956d76608084ccaa523ba7c4603a))
+
 # [1.1.0](https://github.com/openapi-automatons/parser/compare/v1.0.3...v1.1.0) (2026-06-05)
 
 
