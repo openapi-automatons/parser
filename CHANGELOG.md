@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/openapi-automatons/parser/compare/v1.2.3...v1.2.4) (2026-06-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.3 to 25.0.5 ([#1242](https://github.com/openapi-automatons/parser/issues/1242)) ([7c9cd3d](https://github.com/openapi-automatons/parser/commit/7c9cd3d6758ceefd2b20cbc70c4a8e88fe7e7b3b))
+
 ## [1.2.3](https://github.com/openapi-automatons/parser/compare/v1.2.2...v1.2.3) (2026-06-09)
 
 
