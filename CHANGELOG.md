@@ -1,3 +1,10 @@
+## [1.2.18](https://github.com/openapi-automatons/parser/compare/v1.2.17...v1.2.18) (2026-06-20)
+
+
+### Bug Fixes
+
+* **deps:** bump flatted from 3.3.1 to 3.4.2 ([#1257](https://github.com/openapi-automatons/parser/issues/1257)) ([4ecf7e1](https://github.com/openapi-automatons/parser/commit/4ecf7e1e129d85812ccfa87c93164e30031cab2d))
+
 ## [1.2.17](https://github.com/openapi-automatons/parser/compare/v1.2.16...v1.2.17) (2026-06-20)
 
 
