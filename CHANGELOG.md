@@ -1,3 +1,10 @@
+## [1.2.14](https://github.com/openapi-automatons/parser/compare/v1.2.13...v1.2.14) (2026-06-20)
+
+
+### Bug Fixes
+
+* **deps:** bump tar from 7.4.3 to 7.5.16 ([#1252](https://github.com/openapi-automatons/parser/issues/1252)) ([773f39d](https://github.com/openapi-automatons/parser/commit/773f39d4ce3d1d6b431eda85171db05b2724ed39))
+
 ## [1.2.13](https://github.com/openapi-automatons/parser/compare/v1.2.12...v1.2.13) (2026-06-19)
 
 
