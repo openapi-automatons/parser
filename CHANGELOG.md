@@ -1,3 +1,10 @@
+## [1.2.15](https://github.com/openapi-automatons/parser/compare/v1.2.14...v1.2.15) (2026-06-20)
+
+
+### Bug Fixes
+
+* **deps:** bump undici from 6.23.0 to 6.27.0 ([#1253](https://github.com/openapi-automatons/parser/issues/1253)) ([327debe](https://github.com/openapi-automatons/parser/commit/327debe98570dd2481dcf0d3b475fd5bd7f399f9))
+
 ## [1.2.14](https://github.com/openapi-automatons/parser/compare/v1.2.13...v1.2.14) (2026-06-20)
 
 
