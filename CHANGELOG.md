@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/openapi-automatons/parser/compare/v1.2.16...v1.2.17) (2026-06-20)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash-es from 4.17.21 to 4.18.1 ([#1256](https://github.com/openapi-automatons/parser/issues/1256)) ([4060e32](https://github.com/openapi-automatons/parser/commit/4060e326f748528a574c9130d29511426fbd308e))
+
 ## [1.2.16](https://github.com/openapi-automatons/parser/compare/v1.2.15...v1.2.16) (2026-06-20)
 
 
