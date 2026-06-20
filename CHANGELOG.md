@@ -1,3 +1,11 @@
+## [1.2.16](https://github.com/openapi-automatons/parser/compare/v1.2.15...v1.2.16) (2026-06-20)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash from 4.17.21 to 4.18.1 ([#1255](https://github.com/openapi-automatons/parser/issues/1255)) ([9d1f87b](https://github.com/openapi-automatons/parser/commit/9d1f87bbde532fda1cfca3e35546a71b12372666))
+* **deps:** bump postcss from 8.3.11 to 8.5.15 ([#1254](https://github.com/openapi-automatons/parser/issues/1254)) ([65c185c](https://github.com/openapi-automatons/parser/commit/65c185cdb33e8aabe7f023922c5204600bd17fe4))
+
 ## [1.2.15](https://github.com/openapi-automatons/parser/compare/v1.2.14...v1.2.15) (2026-06-20)
 
 
