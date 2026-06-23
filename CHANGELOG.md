@@ -1,3 +1,10 @@
+## [1.2.21](https://github.com/openapi-automatons/parser/compare/v1.2.20...v1.2.21) (2026-06-23)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#1260](https://github.com/openapi-automatons/parser/issues/1260)) ([76c9a62](https://github.com/openapi-automatons/parser/commit/76c9a62bafac0a431d0521e678cd533bce6cbb4b))
+
 ## [1.2.20](https://github.com/openapi-automatons/parser/compare/v1.2.19...v1.2.20) (2026-06-22)
 
 
