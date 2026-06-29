@@ -1,3 +1,10 @@
+## [1.2.28](https://github.com/openapi-automatons/parser/compare/v1.2.27...v1.2.28) (2026-06-29)
+
+
+### Bug Fixes
+
+* **deps:** bump @sigstore/core from 3.0.0 to 3.2.1 ([#1268](https://github.com/openapi-automatons/parser/issues/1268)) ([4e7253c](https://github.com/openapi-automatons/parser/commit/4e7253c75364f89b1f2e56384b46c0476919b4fd))
+
 ## [1.2.27](https://github.com/openapi-automatons/parser/compare/v1.2.26...v1.2.27) (2026-06-29)
 
 
