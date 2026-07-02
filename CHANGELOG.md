@@ -1,3 +1,10 @@
+## [1.2.33](https://github.com/openapi-automatons/parser/compare/v1.2.32...v1.2.33) (2026-07-02)
+
+
+### Bug Fixes
+
+* **deps:** bump sigstore from 4.0.0 to 4.1.1 ([#1276](https://github.com/openapi-automatons/parser/issues/1276)) ([f0cc4a8](https://github.com/openapi-automatons/parser/commit/f0cc4a82603974ed287943bb4a6b5d2f0ddba1a8))
+
 ## [1.2.32](https://github.com/openapi-automatons/parser/compare/v1.2.31...v1.2.32) (2026-07-02)
 
 
