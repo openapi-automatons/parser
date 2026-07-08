@@ -1,3 +1,11 @@
+## [1.2.36](https://github.com/openapi-automatons/parser/compare/v1.2.35...v1.2.36) (2026-07-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.0 to 21.2.1 ([#1281](https://github.com/openapi-automatons/parser/issues/1281)) ([d9a5841](https://github.com/openapi-automatons/parser/commit/d9a58418805d93140e6784af15b69ea4a369bb4d))
+* **deps:** bump @automatons/tools from 2.2.17 to 2.2.18 ([#1280](https://github.com/openapi-automatons/parser/issues/1280)) ([e72facb](https://github.com/openapi-automatons/parser/commit/e72facb1734a071619766a0016922470ed1047c7))
+
 ## [1.2.35](https://github.com/openapi-automatons/parser/compare/v1.2.34...v1.2.35) (2026-07-08)
 
 
