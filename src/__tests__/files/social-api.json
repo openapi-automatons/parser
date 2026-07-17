@@ -1,12 +1,12 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Xquik Social API Fixture",
+    "title": "Social API Fixture",
     "version": "1.0.0"
   },
   "servers": [
     {
-      "url": "https://xquik.com"
+      "url": "https://api.example.com"
     }
   ],
   "security": [
@@ -15,9 +15,9 @@
     }
   ],
   "paths": {
-    "/api/v1/x/tweets/search": {
+    "/api/v1/posts/search": {
       "get": {
-        "operationId": "searchTweets",
+        "operationId": "searchPosts",
         "parameters": [
           {
             "name": "q",
@@ -47,11 +47,11 @@
         ],
         "responses": {
           "200": {
-            "description": "Tweet search response",
+            "description": "Post search response",
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/SearchTweetsResponse"
+                  "$ref": "#/components/schemas/SearchPostsResponse"
                 }
               }
             }
@@ -59,12 +59,12 @@
         }
       }
     },
-    "/api/v1/x/tweets/{tweetId}/reply": {
+    "/api/v1/posts/{postId}/reply": {
       "post": {
-        "operationId": "replyToTweet",
+        "operationId": "replyToPost",
         "parameters": [
           {
-            "name": "tweetId",
+            "name": "postId",
             "in": "path",
             "required": true,
             "schema": {
@@ -88,7 +88,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Tweet"
+                  "$ref": "#/components/schemas/Post"
                 }
               }
             }
@@ -106,14 +106,14 @@
       }
     },
     "schemas": {
-      "SearchTweetsResponse": {
+      "SearchPostsResponse": {
         "type": "object",
         "required": ["data"],
         "properties": {
           "data": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/Tweet"
+              "$ref": "#/components/schemas/Post"
             }
           },
           "nextCursor": {
@@ -121,7 +121,7 @@
           }
         }
       },
-      "Tweet": {
+      "Post": {
         "type": "object",
         "required": ["id", "text", "authorUsername"],
         "properties": {
@@ -135,17 +135,17 @@
             "type": "string"
           },
           "metrics": {
-            "$ref": "#/components/schemas/TweetMetrics"
+            "$ref": "#/components/schemas/PostMetrics"
           }
         }
       },
-      "TweetMetrics": {
+      "PostMetrics": {
         "type": "object",
         "properties": {
           "likes": {
             "type": "integer"
           },
-          "reposts": {
+          "shares": {
             "type": "integer"
           },
           "replies": {
@@ -159,7 +159,7 @@
         "properties": {
           "text": {
             "type": "string",
-            "maxLength": 280
+            "maxLength": 500
           }
         }
       }
