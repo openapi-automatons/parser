@@ -1,3 +1,12 @@
+## [1.2.44](https://github.com/[secure]-[secure]/parser/compare/v1.2.43...v1.2.44) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.0 ([#1289](https://github.com/[secure]-[secure]/parser/issues/1289)) ([9dd39f2](https://github.com/[secure]-[secure]/parser/commit/9dd39f2a683311ba8faecfd67ee182bbbc99433b))
+* **deps:** bump @[secure]/tools from 2.2.21 to 2.2.23 ([#1290](https://github.com/[secure]-[secure]/parser/issues/1290)) ([5caef6f](https://github.com/[secure]-[secure]/parser/commit/5caef6f7033c1312431f439ab5db1b7c5a6cef47))
+* **deps:** bump tar from 7.5.16 to 7.5.20 ([#1291](https://github.com/[secure]-[secure]/parser/issues/1291)) ([296e74d](https://github.com/[secure]-[secure]/parser/commit/296e74d3c6088f4068cd434a1ebfa652a78fb989))
+
 ## [1.2.43](https://github.com/[secure]-[secure]/parser/compare/v1.2.42...v1.2.43) (2026-07-21)
 
 
