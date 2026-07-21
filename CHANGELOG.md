@@ -1,3 +1,10 @@
+## [1.2.43](https://github.com/[secure]-[secure]/parser/compare/v1.2.42...v1.2.43) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#1288](https://github.com/[secure]-[secure]/parser/issues/1288)) ([8f5b3dc](https://github.com/[secure]-[secure]/parser/commit/8f5b3dc275779fca6ff3c205c446c6eb155f2f70))
+
 ## [1.2.42](https://github.com/[secure]-[secure]/parser/compare/v1.2.41...v1.2.42) (2026-07-20)
 
 
