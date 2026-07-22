@@ -1,3 +1,11 @@
+## [1.2.45](https://github.com/[secure]-[secure]/parser/compare/v1.2.44...v1.2.45) (2026-07-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.1.0 to 17.1.1 ([#1293](https://github.com/[secure]-[secure]/parser/issues/1293)) ([f240044](https://github.com/[secure]-[secure]/parser/commit/f2400442ba04ec809664e63289142cab26838431))
+* **deps:** bump @[secure]/tools from 2.2.23 to 2.2.26 ([#1292](https://github.com/[secure]-[secure]/parser/issues/1292)) ([6f848b4](https://github.com/[secure]-[secure]/parser/commit/6f848b402de2733850554e7bf009a50cef8a0612))
+
 ## [1.2.44](https://github.com/[secure]-[secure]/parser/compare/v1.2.43...v1.2.44) (2026-07-21)
 
 
