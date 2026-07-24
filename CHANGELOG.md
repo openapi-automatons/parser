@@ -1,3 +1,10 @@
+## [1.2.48](https://github.com/[secure]-[secure]/parser/compare/v1.2.47...v1.2.48) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 11.0.0 to 11.0.1 ([#1296](https://github.com/[secure]-[secure]/parser/issues/1296)) ([3f934ce](https://github.com/[secure]-[secure]/parser/commit/3f934ce269f1618fff1d40d199a8c0e2accabfab))
+
 ## [1.2.47](https://github.com/[secure]-[secure]/parser/compare/v1.2.46...v1.2.47) (2026-07-23)
 
 
