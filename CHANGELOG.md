@@ -1,3 +1,105 @@
+## [1.2.47](https://github.com/[secure]-[secure]/parser/compare/v1.2.46...v1.2.47) (2026-07-23)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/tools from 2.2.26 to 2.2.27 ([#1295](https://github.com/[secure]-[secure]/parser/issues/1295)) ([8b3531c](https://github.com/[secure]-[secure]/parser/commit/8b3531c61ab363686404293e1720fd9216ec1442))
+
+## [1.2.46](https://github.com/[secure]-[secure]/parser/compare/v1.2.45...v1.2.46) (2026-07-23)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.1.1 to 17.2.0 ([#1294](https://github.com/[secure]-[secure]/parser/issues/1294)) ([80bffd0](https://github.com/[secure]-[secure]/parser/commit/80bffd0029c1032a3554232cc3f091c788770287))
+
+## [1.2.45](https://github.com/[secure]-[secure]/parser/compare/v1.2.44...v1.2.45) (2026-07-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.1.0 to 17.1.1 ([#1293](https://github.com/[secure]-[secure]/parser/issues/1293)) ([f240044](https://github.com/[secure]-[secure]/parser/commit/f2400442ba04ec809664e63289142cab26838431))
+* **deps:** bump @[secure]/tools from 2.2.23 to 2.2.26 ([#1292](https://github.com/[secure]-[secure]/parser/issues/1292)) ([6f848b4](https://github.com/[secure]-[secure]/parser/commit/6f848b402de2733850554e7bf009a50cef8a0612))
+
+## [1.2.44](https://github.com/[secure]-[secure]/parser/compare/v1.2.43...v1.2.44) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.0 ([#1289](https://github.com/[secure]-[secure]/parser/issues/1289)) ([9dd39f2](https://github.com/[secure]-[secure]/parser/commit/9dd39f2a683311ba8faecfd67ee182bbbc99433b))
+* **deps:** bump @[secure]/tools from 2.2.21 to 2.2.23 ([#1290](https://github.com/[secure]-[secure]/parser/issues/1290)) ([5caef6f](https://github.com/[secure]-[secure]/parser/commit/5caef6f7033c1312431f439ab5db1b7c5a6cef47))
+* **deps:** bump tar from 7.5.16 to 7.5.20 ([#1291](https://github.com/[secure]-[secure]/parser/issues/1291)) ([296e74d](https://github.com/[secure]-[secure]/parser/commit/296e74d3c6088f4068cd434a1ebfa652a78fb989))
+
+## [1.2.43](https://github.com/[secure]-[secure]/parser/compare/v1.2.42...v1.2.43) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#1288](https://github.com/[secure]-[secure]/parser/issues/1288)) ([8f5b3dc](https://github.com/[secure]-[secure]/parser/commit/8f5b3dc275779fca6ff3c205c446c6eb155f2f70))
+
+## [1.2.42](https://github.com/[secure]-[secure]/parser/compare/v1.2.41...v1.2.42) (2026-07-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.0.8 to 17.1.0 ([#1287](https://github.com/[secure]-[secure]/parser/issues/1287)) ([6b49d64](https://github.com/[secure]-[secure]/parser/commit/6b49d64aaa74773aa572d6b67ddc781d59ca7c78))
+
+## [1.2.41](https://github.com/[secure]-[secure]/parser/compare/v1.2.40...v1.2.41) (2026-07-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.7 to 25.0.8 ([#1286](https://github.com/[secure]-[secure]/parser/issues/1286)) ([581c636](https://github.com/[secure]-[secure]/parser/commit/581c636f7bc100af4ee2dd5b677d0b068dec26fa))
+
+## [1.2.40](https://github.com/openapi-automatons/parser/compare/v1.2.39...v1.2.40) (2026-07-14)
+
+
+### Bug Fixes
+
+* **deps:** bump @automatons/tools from 2.2.20 to 2.2.21 ([#1285](https://github.com/openapi-automatons/parser/issues/1285)) ([39f7553](https://github.com/openapi-automatons/parser/commit/39f7553ee635f03bdb9f5b77b0d1fb0166008434))
+
+## [1.2.39](https://github.com/openapi-automatons/parser/compare/v1.2.38...v1.2.39) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.6.0 to 10.7.0 ([#1284](https://github.com/openapi-automatons/parser/issues/1284)) ([0773a79](https://github.com/openapi-automatons/parser/commit/0773a7961830781922518bb6e34421453e3aaaaa))
+
+## [1.2.38](https://github.com/openapi-automatons/parser/compare/v1.2.37...v1.2.38) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.5 to 25.0.7 ([#1283](https://github.com/openapi-automatons/parser/issues/1283)) ([849a939](https://github.com/openapi-automatons/parser/commit/849a939ff83647cafef0ab1ac0b64f4ac01be185))
+
+## [1.2.37](https://github.com/openapi-automatons/parser/compare/v1.2.36...v1.2.37) (2026-07-09)
+
+
+### Bug Fixes
+
+* **deps:** bump @automatons/tools from 2.2.18 to 2.2.20 ([#1282](https://github.com/openapi-automatons/parser/issues/1282)) ([b4b29b7](https://github.com/openapi-automatons/parser/commit/b4b29b74a23334b74b92144a7ffe7c81d0c05acf))
+
+## [1.2.36](https://github.com/openapi-automatons/parser/compare/v1.2.35...v1.2.36) (2026-07-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.0 to 21.2.1 ([#1281](https://github.com/openapi-automatons/parser/issues/1281)) ([d9a5841](https://github.com/openapi-automatons/parser/commit/d9a58418805d93140e6784af15b69ea4a369bb4d))
+* **deps:** bump @automatons/tools from 2.2.17 to 2.2.18 ([#1280](https://github.com/openapi-automatons/parser/issues/1280)) ([e72facb](https://github.com/openapi-automatons/parser/commit/e72facb1734a071619766a0016922470ed1047c7))
+
+## [1.2.35](https://github.com/openapi-automatons/parser/compare/v1.2.34...v1.2.35) (2026-07-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.1.0 to 26.1.1 ([#1279](https://github.com/openapi-automatons/parser/issues/1279)) ([fb56ff7](https://github.com/openapi-automatons/parser/commit/fb56ff71e42f187551e0bf3b3ff16c20eefddf4d))
+
+## [1.2.34](https://github.com/openapi-automatons/parser/compare/v1.2.33...v1.2.34) (2026-07-03)
+
+
+### Bug Fixes
+
+* **deps:** bump @automatons/tools from 2.2.16 to 2.2.17 ([#1278](https://github.com/openapi-automatons/parser/issues/1278)) ([fe23883](https://github.com/openapi-automatons/parser/commit/fe2388310fbbf63dedd3fd0f4e7540dcfe5f648c))
+
 ## [1.2.33](https://github.com/openapi-automatons/parser/compare/v1.2.32...v1.2.33) (2026-07-02)
 
 
