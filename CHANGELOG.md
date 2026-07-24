@@ -1,3 +1,10 @@
+## [1.2.50](https://github.com/[secure]-[secure]/parser/compare/v1.2.49...v1.2.50) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps:** bump minimist from 1.2.5 to 1.2.8 ([#1298](https://github.com/[secure]-[secure]/parser/issues/1298)) ([fc3183b](https://github.com/[secure]-[secure]/parser/commit/fc3183b51c5e4bd61d0512a0d195de255f053641))
+
 ## [1.2.49](https://github.com/[secure]-[secure]/parser/compare/v1.2.48...v1.2.49) (2026-07-24)
 
 
