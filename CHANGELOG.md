@@ -1,3 +1,12 @@
+## [1.2.51](https://github.com/[secure]-[secure]/parser/compare/v1.2.50...v1.2.51) (2026-07-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.7.0 to 10.8.0 ([#1299](https://github.com/[secure]-[secure]/parser/issues/1299)) ([1e69240](https://github.com/[secure]-[secure]/parser/commit/1e692403f5145262e6b1f547d179486300d24467))
+* **deps:** bump @[secure]/tools from 2.2.28 to 2.2.33 ([#1300](https://github.com/[secure]-[secure]/parser/issues/1300)) ([e98160c](https://github.com/[secure]-[secure]/parser/commit/e98160c1a3b7de3ee5051dd9d91e7143f677922d))
+* **deps:** bump postcss from 8.5.15 to 8.5.23 ([#1301](https://github.com/[secure]-[secure]/parser/issues/1301)) ([76121ee](https://github.com/[secure]-[secure]/parser/commit/76121eec3722cecfe6415fd40ac5f2c328f2e4b0))
+
 ## [1.2.50](https://github.com/[secure]-[secure]/parser/compare/v1.2.49...v1.2.50) (2026-07-24)
 
 
