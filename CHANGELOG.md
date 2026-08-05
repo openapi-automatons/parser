@@ -1,3 +1,10 @@
+## [1.2.55](https://github.com/[secure]-[secure]/parser/compare/v1.2.54...v1.2.55) (2026-08-05)
+
+
+### Bug Fixes
+
+* **deps:** bump undici from 6.27.0 to 6.28.0 ([#1306](https://github.com/[secure]-[secure]/parser/issues/1306)) ([82ac7d9](https://github.com/[secure]-[secure]/parser/commit/82ac7d9851ce9f43326bdb1d878ec921eb3eba05))
+
 ## [1.2.54](https://github.com/[secure]-[secure]/parser/compare/v1.2.53...v1.2.54) (2026-08-03)
 
 
