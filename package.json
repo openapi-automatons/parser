@@ -33,7 +33,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@automatons/tools": "^2.2.37",
+    "@automatons/tools": "^2.2.38",
     "change-case": "^5.4.4"
   },
   "devDependencies": {
