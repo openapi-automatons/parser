@@ -1,3 +1,10 @@
+## [1.2.57](https://github.com/[secure]-[secure]/parser/compare/v1.2.56...v1.2.57) (2026-08-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.8 to 25.0.9 ([#1308](https://github.com/[secure]-[secure]/parser/issues/1308)) ([3a86c46](https://github.com/[secure]-[secure]/parser/commit/3a86c462fb535ad1cb576f1821e23798eb276361))
+
 ## [1.2.56](https://github.com/[secure]-[secure]/parser/compare/v1.2.55...v1.2.56) (2026-08-07)
 
 
