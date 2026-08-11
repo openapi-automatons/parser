@@ -1,3 +1,10 @@
+## [1.2.59](https://github.com/[secure]-[secure]/parser/compare/v1.2.58...v1.2.59) (2026-08-11)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.8.0 to 10.8.1 ([#1310](https://github.com/[secure]-[secure]/parser/issues/1310)) ([3f8234d](https://github.com/[secure]-[secure]/parser/commit/3f8234d5770fef89bffd1986147f7b5cc598d7a9))
+
 ## [1.2.58](https://github.com/[secure]-[secure]/parser/compare/v1.2.57...v1.2.58) (2026-08-10)
 
 
