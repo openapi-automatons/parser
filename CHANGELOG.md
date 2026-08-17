@@ -1,3 +1,10 @@
+## [1.2.62](https://github.com/[secure]-[secure]/parser/compare/v1.2.61...v1.2.62) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.1 to 21.2.2 ([#1314](https://github.com/[secure]-[secure]/parser/issues/1314)) ([a202f96](https://github.com/[secure]-[secure]/parser/commit/a202f96a8e9c33ac588d9aa9b0ff3e120f756f27))
+
 ## [1.2.61](https://github.com/[secure]-[secure]/parser/compare/v1.2.60...v1.2.61) (2026-08-14)
 
 
