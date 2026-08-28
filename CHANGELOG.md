@@ -1,3 +1,12 @@
+## [1.2.66](https://github.com/[secure]-[secure]/parser/compare/v1.2.65...v1.2.66) (2026-08-28)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.2.0 to 26.3.0 ([#1319](https://github.com/[secure]-[secure]/parser/issues/1319)) ([36e9e6c](https://github.com/[secure]-[secure]/parser/commit/36e9e6cba392749234992671cad0ba72fdf125e1))
+* **deps-dev:** bump eslint from 10.9.0 to 10.9.1 ([#1321](https://github.com/[secure]-[secure]/parser/issues/1321)) ([6607a35](https://github.com/[secure]-[secure]/parser/commit/6607a3529f7d6ca2d142f15ac71284ac15182c9c))
+* **deps:** bump @[secure]/tools from 2.2.44 to 2.2.45 ([#1320](https://github.com/[secure]-[secure]/parser/issues/1320)) ([097c374](https://github.com/[secure]-[secure]/parser/commit/097c37427e96fd1e8db44e80b390e1ebfe7af521))
+
 ## [1.2.65](https://github.com/[secure]-[secure]/parser/compare/v1.2.64...v1.2.65) (2026-08-24)
 
 
