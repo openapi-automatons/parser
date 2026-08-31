@@ -1,3 +1,10 @@
+## [1.2.68](https://github.com/[secure]-[secure]/parser/compare/v1.2.67...v1.2.68) (2026-08-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.3.0 to 26.4.0 ([#1323](https://github.com/[secure]-[secure]/parser/issues/1323)) ([565b78e](https://github.com/[secure]-[secure]/parser/commit/565b78eb1b10d81412fb641bb6139621c06f3fc9))
+
 ## [1.2.67](https://github.com/[secure]-[secure]/parser/compare/v1.2.66...v1.2.67) (2026-08-31)
 
 
