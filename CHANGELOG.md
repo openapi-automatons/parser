@@ -1,3 +1,10 @@
+## [1.2.67](https://github.com/[secure]-[secure]/parser/compare/v1.2.66...v1.2.67) (2026-08-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.3.0 to 17.4.1 ([#1322](https://github.com/[secure]-[secure]/parser/issues/1322)) ([c495c45](https://github.com/[secure]-[secure]/parser/commit/c495c45276d0f1bb6c0e623e1940b6b837c65b35))
+
 ## [1.2.66](https://github.com/[secure]-[secure]/parser/compare/v1.2.65...v1.2.66) (2026-08-28)
 
 
