@@ -1,3 +1,10 @@
+## [1.2.69](https://github.com/[secure]-[secure]/parser/compare/v1.2.68...v1.2.69) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/tools from 2.2.45 to 2.2.46 ([#1324](https://github.com/[secure]-[secure]/parser/issues/1324)) ([35f4bdd](https://github.com/[secure]-[secure]/parser/commit/35f4bdd68781f8e8858d830b92f70047d26789ca))
+
 ## [1.2.68](https://github.com/[secure]-[secure]/parser/compare/v1.2.67...v1.2.68) (2026-08-31)
 
 
