@@ -1,3 +1,10 @@
+## [1.2.71](https://github.com/[secure]-[secure]/parser/compare/v1.2.70...v1.2.71) (2026-09-02)
+
+
+### Bug Fixes
+
+* **deps:** bump @humanfs/node from 0.16.6 to 0.16.8 ([#1326](https://github.com/[secure]-[secure]/parser/issues/1326)) ([670154c](https://github.com/[secure]-[secure]/parser/commit/670154c6d771a8d4218975d1d2280db5aa7aaae1))
+
 ## [1.2.70](https://github.com/[secure]-[secure]/parser/compare/v1.2.69...v1.2.70) (2026-09-01)
 
 
