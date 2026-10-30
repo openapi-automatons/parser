@@ -1,3 +1,10 @@
+## [1.2.73](https://github.com/[secure]-[secure]/parser/compare/v1.2.72...v1.2.73) (2026-10-30)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.62.0 to 8.72.1 ([#1359](https://github.com/[secure]-[secure]/parser/issues/1359)) ([5faeb0f](https://github.com/[secure]-[secure]/parser/commit/5faeb0f1583c5132f2f618ab5e6671a772a13461))
+
 ## [1.2.72](https://github.com/[secure]-[secure]/parser/compare/v1.2.71...v1.2.72) (2026-10-30)
 
 
