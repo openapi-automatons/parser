@@ -1,3 +1,36 @@
+## [1.2.72](https://github.com/[secure]-[secure]/parser/compare/v1.2.71...v1.2.72) (2026-10-30)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.2 to 21.2.3 ([#1340](https://github.com/[secure]-[secure]/parser/issues/1340)) ([3d0264c](https://github.com/[secure]-[secure]/parser/commit/3d0264c1da6a851e0a5464f7d6153a3e12a54d82))
+* **deps-dev:** bump @commitlint/cli from 21.2.3 to 21.2.4 ([#1352](https://github.com/[secure]-[secure]/parser/issues/1352)) ([26405c2](https://github.com/[secure]-[secure]/parser/commit/26405c2787a88fbb5fffb9fa4fec906c4554d16a))
+* **deps-dev:** bump @commitlint/config-conventional ([#1339](https://github.com/[secure]-[secure]/parser/issues/1339)) ([fd0159a](https://github.com/[secure]-[secure]/parser/commit/fd0159a1213098ed00e7f8433475ff475c171a93))
+* **deps-dev:** bump @types/node from 26.4.0 to 26.4.1 ([#1329](https://github.com/[secure]-[secure]/parser/issues/1329)) ([3d8921b](https://github.com/[secure]-[secure]/parser/commit/3d8921bee5d1569e3efbd1b7002ec767786a83a6))
+* **deps-dev:** bump @types/node from 26.4.1 to 26.5.0 ([#1333](https://github.com/[secure]-[secure]/parser/issues/1333)) ([7450bee](https://github.com/[secure]-[secure]/parser/commit/7450beefae0087045f94c3552b8d889c5233c844))
+* **deps-dev:** bump @types/node from 26.5.0 to 26.5.1 ([#1335](https://github.com/[secure]-[secure]/parser/issues/1335)) ([3be0ef0](https://github.com/[secure]-[secure]/parser/commit/3be0ef0f9d118ce2ad20de22265d3fd37fa2d776))
+* **deps-dev:** bump @types/node from 26.5.1 to 26.6.1 ([#1336](https://github.com/[secure]-[secure]/parser/issues/1336)) ([3d4cca7](https://github.com/[secure]-[secure]/parser/commit/3d4cca75f94e2419e73483d237023a42e15755fc))
+* **deps-dev:** bump @types/node from 26.6.1 to 26.6.2 ([#1338](https://github.com/[secure]-[secure]/parser/issues/1338)) ([db58057](https://github.com/[secure]-[secure]/parser/commit/db580578a187552132d840338c5dae5d79e10e76))
+* **deps-dev:** bump @types/node from 26.6.2 to 26.6.3 ([#1341](https://github.com/[secure]-[secure]/parser/issues/1341)) ([2acad7f](https://github.com/[secure]-[secure]/parser/commit/2acad7f441d833b2f38a79ab02665d1e2625a3df))
+* **deps-dev:** bump @types/node from 26.6.3 to 26.6.4 ([#1343](https://github.com/[secure]-[secure]/parser/issues/1343)) ([825262b](https://github.com/[secure]-[secure]/parser/commit/825262b37f65f35ab669a50acf3521db884e4d74))
+* **deps-dev:** bump @types/node from 26.6.4 to 26.6.5 ([#1348](https://github.com/[secure]-[secure]/parser/issues/1348)) ([9f24d48](https://github.com/[secure]-[secure]/parser/commit/9f24d480fa615315c680ae5f9e10bbdc2f7462ba))
+* **deps-dev:** bump eslint from 10.10.0 to 10.11.0 ([#1337](https://github.com/[secure]-[secure]/parser/issues/1337)) ([0aa1bed](https://github.com/[secure]-[secure]/parser/commit/0aa1beddb54723cdafd7dac935ad8df2d8683f22))
+* **deps-dev:** bump eslint from 10.11.0 to 10.12.0 ([#1345](https://github.com/[secure]-[secure]/parser/issues/1345)) ([89af2fe](https://github.com/[secure]-[secure]/parser/commit/89af2febdc8fd528d67dbd135436c99f87d72af0))
+* **deps-dev:** bump eslint from 10.12.0 to 10.13.0 ([#1351](https://github.com/[secure]-[secure]/parser/issues/1351)) ([6e0f9a7](https://github.com/[secure]-[secure]/parser/commit/6e0f9a728e6cb7d8c5ed520b8a519c5c101ae3a8))
+* **deps-dev:** bump eslint from 10.9.1 to 10.10.0 ([#1330](https://github.com/[secure]-[secure]/parser/issues/1330)) ([a913e3e](https://github.com/[secure]-[secure]/parser/commit/a913e3e813bb793cd3f6ac44d7f1e26176d24fcb))
+* **deps-dev:** bump lint-staged from 17.4.1 to 17.5.0 ([#1331](https://github.com/[secure]-[secure]/parser/issues/1331)) ([0cbf3cf](https://github.com/[secure]-[secure]/parser/commit/0cbf3cf382d0bb6f7384f87b303e325b64e04405))
+* **deps-dev:** bump lint-staged from 17.5.0 to 17.5.1 ([#1334](https://github.com/[secure]-[secure]/parser/issues/1334)) ([9a95561](https://github.com/[secure]-[secure]/parser/commit/9a9556102dc7b46ea48362000a84ab179e6396a3))
+* **deps-dev:** bump lint-staged from 17.5.1 to 17.6.0 ([#1342](https://github.com/[secure]-[secure]/parser/issues/1342)) ([f83f8b6](https://github.com/[secure]-[secure]/parser/commit/f83f8b6c8a5b3cfacd2be9d9a8bec35b5d0468d2))
+* **deps-dev:** bump tsup from 8.5.1 to 9.0.0 ([#1350](https://github.com/[secure]-[secure]/parser/issues/1350)) ([6663607](https://github.com/[secure]-[secure]/parser/commit/6663607a41d165f46a4f125c81f08b723aa3dcaa))
+* **deps:** bump @[secure]/tools from 2.2.46 to 2.2.48 ([#1327](https://github.com/[secure]-[secure]/parser/issues/1327)) ([1135e76](https://github.com/[secure]-[secure]/parser/commit/1135e769a581812b69deeb7dedf5fe89cb151a59))
+* **deps:** bump @[secure]/tools from 2.2.48 to 2.2.49 ([#1328](https://github.com/[secure]-[secure]/parser/issues/1328)) ([c96b628](https://github.com/[secure]-[secure]/parser/commit/c96b6280a239c3894b958a245d73828958957a2b))
+* **deps:** bump handlebars from 4.7.9 to 4.7.10 ([#1349](https://github.com/[secure]-[secure]/parser/issues/1349)) ([7112ae1](https://github.com/[secure]-[secure]/parser/commit/7112ae1719f884480483b074a6515c12d23c3302))
+* **deps:** bump postcss-selector-parser from 7.1.5 to 7.1.6 ([#1347](https://github.com/[secure]-[secure]/parser/issues/1347)) ([fd39078](https://github.com/[secure]-[secure]/parser/commit/fd3907837b216f76b72bcdcd1a8b0b52d8d0b2db))
+* **deps:** bump source-map-js from 1.0.2 to 1.2.2 ([#1346](https://github.com/[secure]-[secure]/parser/issues/1346)) ([43e6f48](https://github.com/[secure]-[secure]/parser/commit/43e6f48866382d988eebd8cc55bc0a67d1b69a0e))
+* **deps:** bump undici from 6.28.0 to 6.29.0 ([#1344](https://github.com/[secure]-[secure]/parser/issues/1344)) ([1796559](https://github.com/[secure]-[secure]/parser/commit/1796559b7509a64075218759a1b8725fdf495cc4))
+* **deps:** bump undici from 6.29.0 to 6.29.1 ([#1357](https://github.com/[secure]-[secure]/parser/issues/1357)) ([a80b445](https://github.com/[secure]-[secure]/parser/commit/a80b4459d4c691a79ada864e92c039c1db988bdc))
+* **deps:** bump vite from 7.3.5 to 7.3.7 ([#1354](https://github.com/[secure]-[secure]/parser/issues/1354)) ([5602589](https://github.com/[secure]-[secure]/parser/commit/560258952e78521c730a67acef61c795482fffe0))
+
 ## [1.2.71](https://github.com/[secure]-[secure]/parser/compare/v1.2.70...v1.2.71) (2026-09-02)
 
 
