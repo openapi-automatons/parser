@@ -1,3 +1,11 @@
+## [1.2.74](https://github.com/[secure]-[secure]/parser/compare/v1.2.73...v1.2.74) (2026-11-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.6.5 to 26.6.6 ([#1361](https://github.com/[secure]-[secure]/parser/issues/1361)) ([7557473](https://github.com/[secure]-[secure]/parser/commit/7557473f209905dbecb7150fe7d61ae6e40dc3fc))
+* **deps:** bump @[secure]/tools from 2.2.49 to 2.2.50 ([#1360](https://github.com/[secure]-[secure]/parser/issues/1360)) ([3eda481](https://github.com/[secure]-[secure]/parser/commit/3eda481988017dcc31e6aa9af13a01100d5bfb29))
+
 ## [1.2.73](https://github.com/[secure]-[secure]/parser/compare/v1.2.72...v1.2.73) (2026-10-30)
 
 
