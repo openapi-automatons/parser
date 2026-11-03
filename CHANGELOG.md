@@ -1,3 +1,10 @@
+## [1.2.76](https://github.com/[secure]-[secure]/parser/compare/v1.2.75...v1.2.76) (2026-11-03)
+
+
+### Bug Fixes
+
+* **deps:** bump brace-expansion from 1.1.11 to 1.1.21 ([#1363](https://github.com/[secure]-[secure]/parser/issues/1363)) ([c322f8b](https://github.com/[secure]-[secure]/parser/commit/c322f8b2feebb8bd121c015ecd651a90812b2add))
+
 ## [1.2.75](https://github.com/[secure]-[secure]/parser/compare/v1.2.74...v1.2.75) (2026-11-03)
 
 
