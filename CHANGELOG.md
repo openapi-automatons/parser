@@ -1,3 +1,10 @@
+## [1.2.75](https://github.com/[secure]-[secure]/parser/compare/v1.2.74...v1.2.75) (2026-11-03)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.13.0 to 10.14.0 ([#1362](https://github.com/[secure]-[secure]/parser/issues/1362)) ([218739b](https://github.com/[secure]-[secure]/parser/commit/218739b20b43034d1bd4c81cdd9f9e05bb2d2f7e))
+
 ## [1.2.74](https://github.com/[secure]-[secure]/parser/compare/v1.2.73...v1.2.74) (2026-11-02)
 
 
