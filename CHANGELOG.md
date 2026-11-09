@@ -1,3 +1,10 @@
+## [1.2.78](https://github.com/[secure]-[secure]/parser/compare/v1.2.77...v1.2.78) (2026-11-09)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump vite from 8.3.5 to 8.3.6 ([#1365](https://github.com/[secure]-[secure]/parser/issues/1365)) ([fd51b42](https://github.com/[secure]-[secure]/parser/commit/fd51b422a067be70bcecf232c2455bb9d744083e))
+
 ## [1.2.77](https://github.com/[secure]-[secure]/parser/compare/v1.2.76...v1.2.77) (2026-11-06)
 
 
