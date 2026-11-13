@@ -1,3 +1,11 @@
+## [1.2.80](https://github.com/[secure]-[secure]/parser/compare/v1.2.79...v1.2.80) (2026-11-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.72.1 to 8.72.2 ([#1368](https://github.com/[secure]-[secure]/parser/issues/1368)) ([8b84228](https://github.com/[secure]-[secure]/parser/commit/8b842281fb3a9e71d39f67fc0b5f9f1f753aacd5))
+* **deps:** bump @[secure]/tools from 2.2.52 to 2.2.53 ([#1367](https://github.com/[secure]-[secure]/parser/issues/1367)) ([5365c22](https://github.com/[secure]-[secure]/parser/commit/5365c225a11737269b7c5ca6d5799f1c59830ef7))
+
 ## [1.2.79](https://github.com/[secure]-[secure]/parser/compare/v1.2.78...v1.2.79) (2026-11-12)
 
 
