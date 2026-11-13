@@ -1,3 +1,10 @@
+## [1.2.82](https://github.com/[secure]-[secure]/parser/compare/v1.2.81...v1.2.82) (2026-11-13)
+
+
+### Bug Fixes
+
+* **deps:** bump picomatch from 2.3.1 to 2.3.2 ([#1370](https://github.com/[secure]-[secure]/parser/issues/1370)) ([783686d](https://github.com/[secure]-[secure]/parser/commit/783686d97c8220f0165534e89d4428533c51f4f7))
+
 ## [1.2.81](https://github.com/[secure]-[secure]/parser/compare/v1.2.80...v1.2.81) (2026-11-13)
 
 
