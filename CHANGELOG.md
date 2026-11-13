@@ -1,3 +1,10 @@
+## [1.2.81](https://github.com/[secure]-[secure]/parser/compare/v1.2.80...v1.2.81) (2026-11-13)
+
+
+### Bug Fixes
+
+* **deps:** bump js-yaml from 3.14.1 to 3.15.2 ([#1369](https://github.com/[secure]-[secure]/parser/issues/1369)) ([56373a4](https://github.com/[secure]-[secure]/parser/commit/56373a47dce68ca9cab2097e8c8370af302ce2a8))
+
 ## [1.2.80](https://github.com/[secure]-[secure]/parser/compare/v1.2.79...v1.2.80) (2026-11-13)
 
 
